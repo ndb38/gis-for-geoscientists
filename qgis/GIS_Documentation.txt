@@ -3,6 +3,14 @@
 Documentation I took to perform exercise we will go over in workshop. This will form the skeleton 
 of my lectures + walk through
 
+GDAL ISSUE: https://stackoverflow.com/questions/35500176/importerror-no-module-named-gdal
+
+Solved here: https://tilemill-project.github.io/tilemill/docs/guides/gdal/
+
+echo 'export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH' >> ~/.bash_profilesource ~/.bash_profile
+echo 'export PATH=/Users/nickbarber/anaconda3/lib/python3.7/site-packages/osgeo:$PATH' >> ~/.bash_profile
+source ~/.bash_profile
+
 1) Required Software
 
 Users need to install QGIS 3.10 (Stable release). To do this, they need to install other
@@ -19,9 +27,37 @@ it's one of the preferred scientific PCS' for Ecuador. Uses Sistema de Referenci
 tide-gauge controlled geodetic datum, and GRS ellipsoid. Accurate to 1m, appropriate for large to medium scale topographic 
 mapping and engineering surveys. See: https://epsg.io/31977 for details
 
-I set an EPSEG4326 (WGS84) to EPSG:31977 transform:
+I set an EPSEG4326 (WGS84) to EPSG:31977 transform vector files:
 
 +proj=pipeline +step +proj=unitconvert +xy_in=deg +xy_out=rad +step +proj=utm +zone=17 +south +ellps=GRS80
+
+Raster files were tricky - needed to make a custom path in options to get them to work based on info from:
+
+https://gis.stackexchange.com/questions/276853/gdal-scripts-not-found-in-qgis-3-on-osx
+
+/Library/Frameworks/GDAL.framework/Programs:/Library/Frameworks/Python.framework/Versions/3.8/bin:
+
+3) Vector setup
+
+Needed to re-project all vectors using transformation in section 2. GeoRoc file needed to be
+imported as a CSV, reprojected, saved as a geopackage, and re-added. CSVs are always annoying
+
+4) Raster Setup: Raster files need to be re-projected, have holes filled, and merged
+
+Only two SRTM 1-arc second files cover Quito area in Earth Explorer. These were exported as 
+GeoTIFF files, and reprojected into the EPSG:31977 PCD of the project (from EPSG:4326)
+
+Used Processing > SAGA > Raster Tools > Close Gaps
+
+Output for each was saved as a Virtual Raster TIle (VRT) which cna later be merged with other VRTs
+
+Merged using: 
+
+Recolored as SingleBand pseudocolor
+
+/Library/Frameworks/Python.framework/Versions/3.8/bin:/Users/nickbarber/anaconda3/bin:/Users/nickbarber/anaconda3/condabin:/anaconda3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/mysql/bin:/opt/X11/bin:/Library/Apple/usr/bin
+
+
 
 
 
