@@ -1,0 +1,28 @@
+# GIS Log - Sequence of Events to discuss in exercises
+
+Documentation I took to perform exercise we will go over in workshop. This will form the skeleton 
+of my lectures + walk through
+
+1) Required Software
+
+Users need to install QGIS 3.10 (Stable release). To do this, they need to install other
+software in a particular order. First, Python 3.8. Next, GDAL 3.1. Finally, QGIS 3.10
+
+Some Python packages will need to be pre-installed. See QGIS installation instructions for details
+
+Plugins needed: Easy Custom Labeling, Quick Map Services, Data Plotly, Globe Builder
+
+2) Projection System
+
+Need to definitively declare a PCS to perform computational tasks. I chose EPSG 31977 -
+it's one of the preferred scientific PCS' for Ecuador. Uses Sistema de Referencia Geocentrico para las AmericaS 2000
+tide-gauge controlled geodetic datum, and GRS ellipsoid. Accurate to 1m, appropriate for large to medium scale topographic 
+mapping and engineering surveys. See: https://epsg.io/31977 for details
+
+I set an EPSEG4326 (WGS84) to EPSG:31977 transform:
+
++proj=pipeline +step +proj=unitconvert +xy_in=deg +xy_out=rad +step +proj=utm +zone=17 +south +ellps=GRS80
+
+
+
+

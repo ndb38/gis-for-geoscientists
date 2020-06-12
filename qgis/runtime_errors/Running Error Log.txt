@@ -1,0 +1,13 @@
+#Running Error Log
+
+After updating to pPython 8 nd QGIS 10(Stable), QGIS required me to reinstall several python packages, including:
+
+requests
+osgeo
+dateutil
+owslib
+
+
+Make sure you install Python 3.8, then GDAL new version, THEN QGIS 3.10
+CHnage GRASS dependency manually
+Add GDAL framework PATH manualy (Preferences --> ENvironment)
