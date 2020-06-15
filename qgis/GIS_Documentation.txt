@@ -51,7 +51,7 @@ Used Processing > SAGA > Raster Tools > Close Gaps
 
 Output for each was saved as a Virtual Raster TIle (VRT) which cna later be merged with other VRTs
 
-Merged using: 
+Merged using: GDAL Merge after coping old version of gdal_merge python file to 3.1 file
 
 Recolored as SingleBand pseudocolor
 
