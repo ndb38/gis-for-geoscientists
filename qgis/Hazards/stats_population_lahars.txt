@@ -1,0 +1,17 @@
+Statistic	POP value for lahars
+Count	4
+Sum	1.62621e+06
+Mean	406554
+Median	2787
+St dev (pop)	700091
+St dev (sample)	808396
+Minimum	1494
+Maximum	1.61915e+06
+Range	1.61765e+06
+Minority	1494
+Majority	1494
+Variety	4
+Q1	1613
+Q3	811494
+IQR	809881
+Missing (null) values	0

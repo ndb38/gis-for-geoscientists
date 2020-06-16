@@ -105,15 +105,38 @@ field which gives the estimated population of each canton.
 
 Will try this with whole numbers, using attribute table "Create New Field"
 
+New field called POP
 
-8) Importing geochemical information
+8) Importing geochemical information (just for fun)
+
+Import CSV file from GEOROC to show how to import CSV...fow now not touching this
 
 9) Extracting topography/merging with volcanic information + hazards. 
 
 Create a volcano point shape file based on hazard map location. Extract topographic info, 
 population threatened, average geochemistry. 
 
-10) Exporting 
+Calculate % of Quito covered by lahars. Created stats output showing areas of population
+affected by different hazards
+
+Created dissolved shapefile with boundary of this affected area
+
+Now need to calculate area covered by lahars, here and in Qutio. 
+
+Determine number of people impacted by different hazards in all, > 1,600,000 affected by 
+historicla eruptions
+
+10) Layout + Exporting 
+
+Raster visualization --> Terrain Map View to make a beautiful underlying DEM
+
+IDEAS FOR ADVANCED COURSE
+
+Geostatistics on fluid chemistry, interpolating values and modeling "pollution"
+
+Python script to automatically generate statistics for all georoc files
+
+Advanced Layout Tools
 
 
 
