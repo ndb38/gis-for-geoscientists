@@ -57,7 +57,24 @@ Recolored as SingleBand pseudocolor
 
 /Library/Frameworks/Python.framework/Versions/3.8/bin:/Users/nickbarber/anaconda3/bin:/Users/nickbarber/anaconda3/condabin:/anaconda3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/mysql/bin:/opt/X11/bin:/Library/Apple/usr/bin
 
+5) Georeference Basemap
 
+https://docs.qgis.org/3.10/en/docs/user_manual/plugins/core_plugins/plugins_georeferencer.html
+https://www.qgistutorials.com/en/docs/3/georeferencing_basics.html
+
+
+Load JPEG raster of map into Georefrencer tool without specifying a coordinate system (we don't know)
+
+We want the map in our coordinate system (EPSG 31977), so we go to transformation settings 
+and set that specified CRS< along with Thine Plate Spline transformation setting - from
+experience Polynomial georefrencing can be way off. 
+
+We also save the errors to an automatically generated OPDF report (ave to fix a name to this)
+and name the georeferenced output. 
+
+Next, we select control points - more than 5. I used obvious topographic features distributed 
+evenly across the map. When residuals are calculated, you can stop, and hit Start Georeferencingg to 
+export output. 
 
 
 
