@@ -42,6 +42,10 @@ https://gis.stackexchange.com/questions/276853/gdal-scripts-not-found-in-qgis-3-
 Needed to re-project all vectors using transformation in section 2. GeoRoc file needed to be
 imported as a CSV, reprojected, saved as a geopackage, and re-added. CSVs are always annoying
 
+Kept PopulationCensus, TorrentRiver, Road, 3 admin lays (Level 1 2 and 3), coast
+
+All reprojected and named "ecu_<appropriate suffix>".gpkg
+
 4) Raster Setup: Raster files need to be re-projected, have holes filled, and merged
 
 Only two SRTM 1-arc second files cover Quito area in Earth Explorer. These were exported as 
@@ -75,6 +79,21 @@ and name the georeferenced output.
 Next, we select control points - more than 5. I used obvious topographic features distributed 
 evenly across the map. When residuals are calculated, you can stop, and hit Start Georeferencingg to 
 export output. 
+
+6) Tracing Basemap Features
+
+7) Calculating population vulnerable to secondary lahars
+
+POPULATION_CENUSUS LAYER
+
+EDA001-003 give population by major age groups (0-14, 14-65, 65+) in 2010. Sum these to give "POP"
+field which gives the estimated population of each canton. 
+
+8) Importing geochemical information
+
+9) Extracting topography/merging with volcanic information + hazards. 
+
+10) Exporting 
 
 
 
