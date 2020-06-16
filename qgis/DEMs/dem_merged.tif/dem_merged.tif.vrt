@@ -3,10 +3,10 @@
   <GeoTransform>  7.2254626509999996e+05,  3.0835599999999999e+01,  0.0000000000000000e+00,  1.0110698224500000e+07,  0.0000000000000000e+00, -3.0835599999999999e+01</GeoTransform>
   <VRTRasterBand dataType="Float32" band="1">
     <Metadata>
-      <MDI key="STATISTICS_MAXIMUM">5796</MDI>
-      <MDI key="STATISTICS_MEAN">2409.4011845788</MDI>
-      <MDI key="STATISTICS_MINIMUM">-5</MDI>
-      <MDI key="STATISTICS_STDDEV">1159.8649819194</MDI>
+      <MDI key="STATISTICS_MAXIMUM">5879</MDI>
+      <MDI key="STATISTICS_MEAN">2420.1796714869</MDI>
+      <MDI key="STATISTICS_MINIMUM">-19</MDI>
+      <MDI key="STATISTICS_STDDEV">1154.6960726167</MDI>
     </Metadata>
     <SimpleSource>
       <SourceFilename relativeToVRT="1">dem_merged.tif.0.tif</SourceFilename>

@@ -66,7 +66,6 @@ Recolored as SingleBand pseudocolor
 https://docs.qgis.org/3.10/en/docs/user_manual/plugins/core_plugins/plugins_georeferencer.html
 https://www.qgistutorials.com/en/docs/3/georeferencing_basics.html
 
-
 Load JPEG raster of map into Georefrencer tool without specifying a coordinate system (we don't know)
 
 We want the map in our coordinate system (EPSG 31977), so we go to transformation settings 
@@ -80,7 +79,22 @@ Next, we select control points - more than 5. I used obvious topographic feature
 evenly across the map. When residuals are calculated, you can stop, and hit Start Georeferencingg to 
 export output. 
 
+Save errors - all calculations with hazard need to take this into account
+
 6) Tracing Basemap Features
+
+Tracing lahars, and the outline of different ash fall isopachs
+
+Tracing lahars between 1:10000 and 1:20000 scale
+
+Tracing ash 30 mm @ 1:100000-250000 scale
+^for 30 mm isopach, had to estimate western extent. Based on information in poster, 
+I determined it had to encompass a few of the W-NW rivers (Google Satellite basemap), 
+and stop short of the town of San Jacino del Bua. Formed a roughly ellipsoidal shape.
+
+Tracing 90 mm ash isopach @ 1:75000
+
+For lahar layer, had to clip out some bits. This is done using "Symmetrical Difference" tool
 
 7) Calculating population vulnerable to secondary lahars
 
@@ -89,9 +103,15 @@ POPULATION_CENUSUS LAYER
 EDA001-003 give population by major age groups (0-14, 14-65, 65+) in 2010. Sum these to give "POP"
 field which gives the estimated population of each canton. 
 
+Will try this with whole numbers, using attribute table "Create New Field"
+
+
 8) Importing geochemical information
 
 9) Extracting topography/merging with volcanic information + hazards. 
+
+Create a volcano point shape file based on hazard map location. Extract topographic info, 
+population threatened, average geochemistry. 
 
 10) Exporting 
 
