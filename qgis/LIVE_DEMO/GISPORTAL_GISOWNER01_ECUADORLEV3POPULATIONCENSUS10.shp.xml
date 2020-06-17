@@ -1,0 +1,4392 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Instituto Geografico Militar (Ecuador)</origin>
+<pubdate>2010</pubdate>
+<title>Level Three Administrative Boundaries (Parroquias) Population  Census Ecuador 2010</title>
+<geoform>vector digital data</geoform>
+<serinfo>
+<sername>Ecuador</sername>
+</serinfo>
+<pubinfo>
+<pubplace>Ecuador</pubplace>
+<publish>Instituto Geografico Militar (Ecuador)</publish>
+</pubinfo>
+<onlink>http://www.geoportaligm.gob.ec/portal/</onlink>
+<lworkcit>
+<citeinfo>
+<origin>Instituto Geografico Militar (Ecuador)</origin>
+<pubdate>2010</pubdate>
+<title>Instituto Geografico Militar Data</title>
+<pubinfo>
+<pubplace>Ecuador</pubplace>
+<publish>Instituto Geografico Militar (Ecuador)</publish>
+</pubinfo>
+<onlink>http://www.geoportaligm.gob.ec/portal/</onlink>
+</citeinfo>
+</lworkcit>
+<ftname Sync="TRUE">EcuadorLev3PopulationCensus10</ftname>
+</citeinfo>
+</citation>
+<descript>
+<abstract>This polygon dataset represents the 2010 population census performed in Ecuador at the level three administrative level (known as parishes or parroquias).</abstract>
+<purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+<langdata Sync="TRUE">en</langdata>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>2010</caldate>
+</sngdate>
+</timeinfo>
+<current>publication date</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-92.045254</westbc>
+<eastbc>-75.165912</eastbc>
+<northbc>1.713541</northbc>
+<southbc>-5.019173</southbc>
+</bounding>
+<lboundng>
+<leftbc Sync="TRUE">-732143.488300</leftbc>
+<rightbc Sync="TRUE">1147851.641700</rightbc>
+<bottombc Sync="TRUE">9445216.350100</bottombc>
+<topbc Sync="TRUE">10189398.353100</topbc>
+</lboundng>
+</spdom>
+<keywords>
+<theme>
+<themekt>FGDC</themekt>
+<themekey>polygon</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>boundaries</themekey>
+<themekey>society</themekey>
+<themekey>economy</themekey>
+<themekey>health</themekey>
+</theme>
+<theme>
+<themekt>LCSH</themekt>
+<themekey>Housing</themekey>
+<themekey>Status (Law)</themekey>
+<themekey>Gender</themekey>
+<themekey>Cost and standard of living</themekey>
+<themekey>Emigration and immigration</themekey>
+<themekey>Population</themekey>
+</theme>
+<place>
+<placekt>GNS</placekt>
+<placekey>Ecuador</placekey>
+</place>
+<place>
+<placekt>LCNH</placekt>
+<placekey>Northern Hemisphere</placekey>
+<placekey>Southern Hemisphere</placekey>
+<placekey>Western Hemisphere</placekey>
+<placekey>South America</placekey>
+</place>
+</keywords>
+<accconst>Unrestricted Access Online</accconst>
+<useconst>For educational noncommercial use only.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Instituto Geografico Militar</cntorg>
+</cntorgp>
+<cntpos>Gestion Geografica- Gestion IDE</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Senierges E4-676</address>
+<city>Sector el Dorado, Quito</city>
+<state>Pinchincha</state>
+<postal>17-01-2435</postal>
+<country>Ecuador</country>
+</cntaddr>
+<cntvoice>3975100 extension 129</cntvoice>
+<cntemail>nicolay.vaca@mail.igm.gob.ec</cntemail>
+<cntinst>Capt. Nicolay Vaca (Jefe GestiÃ³n GeogrÃ¡fica) nicolay.vaca@mail.igm.gob.ecIng. Susana Arciniegas (InvestigaciÃ³n y desarrollo) susana.arciniegas@mail.igm.gob.ecIng. Miguel Ruano (NormalizaciÃ³n)miguel.ruano@mail.igm.gob.ecIng. Edison Bravo (Administrador de Contenidos GeogrÃ¡ficos)edison.bravo@mail.igm.gob.ecIng. Fernanda LeÃ³n (Administradora de Contenidos GeogrÃ¡ficos)fernanda.leon@mail.igm.gob.ecIng. Pablo Montenegro (Administrador de Aplicaciones GeoinformÃ¡ticas)Â  pablo.montenegro@mail.igm.gob.ecIng. Mauricio AlbÃ¡n (Administrador de Aplicaciones GeoinformÃ¡ticas)mauricio.alban@mail.igm.gob.ecIng. Xavier Vivas (DiseÃ±ador) xavier.vivas@mail.igm.gob.ec</cntinst>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</native>
+<natvform Sync="TRUE">Shapefile</natvform>
+</idinfo>
+<dataqual>
+<lineage>
+<srcinfo>
+<srcscale>1:50,000</srcscale>
+<srccontr>Instituto Geografico Militar (Ecuador)</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>C:\Users\nsusma01\AppData\Local\Temp\xmlEFBB.tmp</srcused>
+<procdate>20130212</procdate>
+<proctime>11073200</proctime>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Starter Metadata Template -Tufts - UTF-8.xml</srcused>
+<procdate>20130708</procdate>
+<proctime>12383100</proctime>
+</procstep>
+<procstep>
+<procdesc>Name changed from Census_Join_Pop1Pop2 to EcuadorLev3PopulationCensus10</procdesc>
+<procdate>20130708</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\IGM - Instituto Geografico Militar\IGMMetadata.xml</srcused>
+<procdate>20130708</procdate>
+<proctime>15510900</proctime>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\IGM - Instituto Geografico Militar\Base Level Infrastructure\acequia_l\EcuadorIrrigation12.shp.xml</srcused>
+<procdate>20130709</procdate>
+<proctime>10014000</proctime>
+</procstep>
+<procstep>
+<procdesc>Metadata imported.</procdesc>
+<srcused>S:\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\EcuadorLev3AdmImmigHousLiveCensus10.shp.xml</srcused>
+<procdate>20130709</procdate>
+<proctime>13032100</proctime>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm Name="EcuadorLev3PopulationCensus10">
+<sdtstype>G-polygon</sdtstype>
+<ptvctcnt>1025</ptvctcnt>
+</sdtsterm>
+<esriterm Name="EcuadorLev3PopulationCensus10">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom Sync="TRUE">Polygon</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">1025</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000</absres>
+<ordres>0.000000</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+<gridsys>
+<gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone Sync="TRUE">-17</utmzone>
+<transmer>
+<sfctrmer Sync="TRUE">0.999600</sfctrmer>
+<longcm Sync="TRUE">-81.000000</longcm>
+<latprjo Sync="TRUE">0.000000</latprjo>
+<feast Sync="TRUE">500000.000000</feast>
+<fnorth Sync="TRUE">10000000.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+</planar>
+<geodetic>
+<horizdn>D_WGS_1984</horizdn>
+<ellips>WGS_1984</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257224</denflat>
+</geodetic>
+<cordsysn>
+<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+<projcsn Sync="TRUE">WGS_1984_UTM_Zone_17S</projcsn>
+</cordsysn>
+</horizsys>
+</spref>
+<eainfo>
+<detailed Name="EcuadorLev3PopulationCensus10">
+<enttyp>
+<enttypl>EcuadorLev3PopulationCensus10</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">1025</enttypc>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Object identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_PARROQ</attrlabl>
+<attrdef>Complete code of the parroquia</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">DPA_PARROQ</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">6</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_DESPAR</attrlabl>
+<attrdef>Description or name of the parroquia</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">DPA_DESPAR</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_CANTON</attrlabl>
+<attrdef>Unique identifier of the canton</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">DPA_CANTON</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_DESCAN</attrlabl>
+<attrdef>Description of the canton</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">DPA_DESCAN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_PROVIN</attrlabl>
+<attrdef>Unique identifier of the province</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">DPA_PROVIN</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">2</attwidth>
+</attr>
+<attr>
+<attrlabl>DPA_DESPRO</attrlabl>
+<attrdef>Description or name of the province</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">DPA_DESPRO</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+</attr>
+<attr>
+<attrlabl>SHAPE_Leng</attrlabl>
+<attrdef>Length of the segment in meters</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">Shape_Leng</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl>Shape_Area</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>Environmental Systems Research Institute (Redlands, Calif.)</attrdefs>
+<attrdomv>
+<udom>Positive real numbers that are automatically generated.</udom>
+</attrdomv>
+<attalias Sync="TRUE">Shape_Area</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>OBJECTID_1</attrlabl>
+<attrdef>Unique identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">OBJECTID_1</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl>EDAD001</attrlabl>
+<attrdef>Major age group of 0-14 years</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">EDAD001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>EDAD002</attrlabl>
+<attrdef>Major age group of 15-64 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">EDAD002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>EDAD003</attrlabl>
+<attrdef>Major age group of 65 or more years</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">EDAD003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD001</attrlabl>
+<attrdef>Less than 1 year old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD002</attrlabl>
+<attrdef>Between 1-4 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD003</attrlabl>
+<attrdef>Between 5-9 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD004</attrlabl>
+<attrdef>Between 10-14 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD005</attrlabl>
+<attrdef>Between 15-19 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD006</attrlabl>
+<attrdef>Between 20-24 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD007</attrlabl>
+<attrdef>Between 25-29 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD008</attrlabl>
+<attrdef>Between 30-34 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD009</attrlabl>
+<attrdef>Between 35-39 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD010</attrlabl>
+<attrdef>Between 40-44 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD011</attrlabl>
+<attrdef>Between 45-49 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD012</attrlabl>
+<attrdef>Between 50-54 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD013</attrlabl>
+<attrdef>Between 55-59 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD014</attrlabl>
+<attrdef>Between 60-64 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD015</attrlabl>
+<attrdef>Between 65-69 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD016</attrlabl>
+<attrdef>Between 70-74 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD017</attrlabl>
+<attrdef>Between 75-79 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD018</attrlabl>
+<attrdef>Between 80-84 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD019</attrlabl>
+<attrdef>Between 85-89 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD020</attrlabl>
+<attrdef>Between 90-94 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD021</attrlabl>
+<attrdef>Between 95-99 years old</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>GEDAD022</attrlabl>
+<attrdef>100 years or older</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">GEDAD022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P01001</attrlabl>
+<attrdef>Male</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P01001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P01002</attrlabl>
+<attrdef>Female</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P01002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02001</attrlabl>
+<attrdef>Head of the household</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02002</attrlabl>
+<attrdef>Spouse or partner</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02003</attrlabl>
+<attrdef>Son or daughter</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02004</attrlabl>
+<attrdef>Son/daughter in law</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02005</attrlabl>
+<attrdef>Grandson/daughter</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02006</attrlabl>
+<attrdef>Parents/inlaws</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02007</attrlabl>
+<attrdef>Other relative</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02008</attrlabl>
+<attrdef>Other non-relative</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02009</attrlabl>
+<attrdef>Employee</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02010</attrlabl>
+<attrdef>Member of collective living</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P02011</attrlabl>
+<attrdef>Without housing</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P02011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P05001</attrlabl>
+<attrdef>Holds an Ecuadorian ID</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P05001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P05002</attrlabl>
+<attrdef>Does not hold an Ecuadorian ID</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P05002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P06001</attrlabl>
+<attrdef>Is inscribed in the civil registry</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P06001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P06002</attrlabl>
+<attrdef>Is not inscribed in the civil registry</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P06002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P07001</attrlabl>
+<attrdef>Has private health insurance</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P07001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P07002</attrlabl>
+<attrdef>Does not have private health insurance</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P07002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P07003</attrlabl>
+<attrdef>Unknown private health insurance status</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P07003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P08001</attrlabl>
+<attrdef>Has had a permanent disability for more than a year</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P08001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P08002</attrlabl>
+<attrdef>Has not had a permanent disability for more than a year</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P08002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P08003</attrlabl>
+<attrdef>Unknown permanent disability for over a year</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P08003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P10001</attrlabl>
+<attrdef>Currently attends an institution for special education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P10001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P10002</attrlabl>
+<attrdef>Does not attend an institution of special education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P10002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P10003</attrlabl>
+<attrdef>Unknown if attends an institution of special education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P10003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P001</attrlabl>
+<attrdef>Province of origin: Azuay</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P002</attrlabl>
+<attrdef>Province of origin: Bolivar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P003</attrlabl>
+<attrdef>Province of origin: Canar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P004</attrlabl>
+<attrdef>Province of origin: Carchi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P005</attrlabl>
+<attrdef>Province of origin: Carchi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P006</attrlabl>
+<attrdef>Province of origin: Chimborazo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P007</attrlabl>
+<attrdef>Province of origin: El Oro</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P008</attrlabl>
+<attrdef>Province of origin: Esmereldas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P009</attrlabl>
+<attrdef>Province of origin: Guayas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P010</attrlabl>
+<attrdef>Province of origin: Imbabura</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P011</attrlabl>
+<attrdef>Province of origin: Loja</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P012</attrlabl>
+<attrdef>Province of origin: Los Rios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P013</attrlabl>
+<attrdef>Province of origin: Manabi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P014</attrlabl>
+<attrdef>Province of origin: Morona Santiago</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P015</attrlabl>
+<attrdef>Province of origin: Napo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P016</attrlabl>
+<attrdef>Province of origin: Pastaza</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P017</attrlabl>
+<attrdef>Province of origin: Pinchincha</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P018</attrlabl>
+<attrdef>Province of origin: Tungurahua</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P019</attrlabl>
+<attrdef>Province of origin: Zamora Chichipe</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P020</attrlabl>
+<attrdef>Province of origin: Galapagos</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P021</attrlabl>
+<attrdef>Province of origin: Sucumbios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P022</attrlabl>
+<attrdef>Province of origin: Orellana</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P023</attrlabl>
+<attrdef>Province of origin: Santo Domingo de los Tsachilas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P024</attrlabl>
+<attrdef>Province of origin: Peninsula de Santa Elena</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P024</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P088</attrlabl>
+<attrdef>Province of origin: Exterior or foreign country</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P11P025</attrlabl>
+<attrdef>Province of origin: Non deliminated zone</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P11P025</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P001</attrlabl>
+<attrdef>Province of permanent residence: Azuay</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P002</attrlabl>
+<attrdef>Province of permanent residence: Bolivar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P003</attrlabl>
+<attrdef>Province of permanent residence: Canar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P004</attrlabl>
+<attrdef>Province of permanent residence: Carchi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P005</attrlabl>
+<attrdef>Province of permanent residence: Cotopaxi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P006</attrlabl>
+<attrdef>Province of permanent residence: Chimborazo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P007</attrlabl>
+<attrdef>Province of permanent residence: El Oro</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P008</attrlabl>
+<attrdef>Province of permanent residence: Esmeraldas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P009</attrlabl>
+<attrdef>Province of permanent residence: Guayas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P010</attrlabl>
+<attrdef>Province of permanent residence: Imbabura</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P011</attrlabl>
+<attrdef>Province of origin: Loja</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P012</attrlabl>
+<attrdef>Province of origin: Los Rios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P013</attrlabl>
+<attrdef>Province of origin: Manabi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P014</attrlabl>
+<attrdef>Province of origin: Morona Santiago</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P015</attrlabl>
+<attrdef>Province of origin: Napo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P016</attrlabl>
+<attrdef>Province of origin: Pastaza</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P017</attrlabl>
+<attrdef>Province of origin: Pinchincha</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P018</attrlabl>
+<attrdef>Province of origin: Tungurahua</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P019</attrlabl>
+<attrdef>Province of origin: Zamora Chinchipe</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P020</attrlabl>
+<attrdef>Province of origin: Galapagos</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P021</attrlabl>
+<attrdef>Province of origin: Sucumbios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P022</attrlabl>
+<attrdef>Province of origin: Orellana</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P023</attrlabl>
+<attrdef>Province of origin: Santo Domingo de los Tsachilas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P024</attrlabl>
+<attrdef>Province of origin: Peninsula de Santa Elena</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P024</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P088</attrlabl>
+<attrdef>Province of origin: Exterior (foreign country)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P12P025</attrlabl>
+<attrdef>Province of origin: Non deliminated zone</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P12P025</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P001</attrlabl>
+<attrdef>Province for past 5 years: Azuay</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P002</attrlabl>
+<attrdef>Province for past 5 years: Bolivar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P003</attrlabl>
+<attrdef>Province for the past 5 years: Canar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P004</attrlabl>
+<attrdef>Province for the past 5 years: Carchi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P005</attrlabl>
+<attrdef>Province for the past 5 years: Cotopaxi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P006</attrlabl>
+<attrdef>Province for the past 5 years: Chimborazo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P007</attrlabl>
+<attrdef>Province for the past 5 years: El Oro</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P008</attrlabl>
+<attrdef>Province for the past 5 years: Esmereldas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P009</attrlabl>
+<attrdef>Province for the past 5 years: Guayas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P010</attrlabl>
+<attrdef>Province for the past 5 years: Imbabura</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P011</attrlabl>
+<attrdef>Province for the past 5 years: Loja</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P012</attrlabl>
+<attrdef>Province for the past 5 years: Los Rios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P013</attrlabl>
+<attrdef>Province for the past 5 years: Manabi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P014</attrlabl>
+<attrdef>Province for the past 5 years: Morona Santiago</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P015</attrlabl>
+<attrdef>Province for the past 5 years: Napo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P016</attrlabl>
+<attrdef>Province for the past 5 years: Pastaza</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P017</attrlabl>
+<attrdef>Province for the past 5 years: Pinchincha</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P018</attrlabl>
+<attrdef>Province for the past 5 years: Tungurahua</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P019</attrlabl>
+<attrdef>Province for the past 5 years: Zamora Chinchipe</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P020</attrlabl>
+<attrdef>Province for the past 5 years: Galapagos</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P021</attrlabl>
+<attrdef>Province for the past 5 years: Sucumbios</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P022</attrlabl>
+<attrdef>Province for the past 5 years: Orellana</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P023</attrlabl>
+<attrdef>Province for the past 5 years: Santo Domingo de los Tsachilas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P024</attrlabl>
+<attrdef>Province for the past 5 years: Peninsula de Santa Elena</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P024</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P088</attrlabl>
+<attrdef>Province for the past 5 years: Exteriro (foreign country)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P13P025</attrlabl>
+<attrdef>Province for the past 5 years: Undeliminated zone</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P13P025</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151001</attrlabl>
+<attrdef>Speaks an indigenous language</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C001</attrlabl>
+<attrdef>Indigenous language speaker: Awapit</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C002</attrlabl>
+<attrdef>Indigenous language speaker: Achuar Chic</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C003</attrlabl>
+<attrdef>Indigenous language speaker: Cha 'Palaa</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C004</attrlabl>
+<attrdef>Indigenous language speaker: A'Ingae</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C005</attrlabl>
+<attrdef>Indigenous language speaker: Zia Pedee</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C006</attrlabl>
+<attrdef>Indigenous language speaker: Paicoca</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C007</attrlabl>
+<attrdef>Indigenous language speaker: Shiwiar Chi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C008</attrlabl>
+<attrdef>Indigenous language speaker: Shuar Chich</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C009</attrlabl>
+<attrdef>Indigenous language speaker: Tsa'Fiqui</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C010</attrlabl>
+<attrdef>Indigenous language speaker: Waotededo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C011</attrlabl>
+<attrdef>Indigenous language speaker: Zapara</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C012</attrlabl>
+<attrdef>Indigenous language speaker: Andoa</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C013</attrlabl>
+<attrdef>Indigenous language speaker: Kichwa</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P151C088</attrlabl>
+<attrdef>Indigenous language speaker: Otros</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P151C088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16001</attrlabl>
+<attrdef>Cultural self identification: Indigenous</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16002</attrlabl>
+<attrdef>Cultural self identification: Afro-Ecuadorian/Afro-descent</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16003</attrlabl>
+<attrdef>Cultural self identification: Black</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16004</attrlabl>
+<attrdef>Cultural self identification: Mulatto</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16005</attrlabl>
+<attrdef>Cultural self identification: Rural person from the coast</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16006</attrlabl>
+<attrdef>Cultural self identification: Mixed (normally white and indigenous)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16007</attrlabl>
+<attrdef>Cultural self identification: White</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P16008</attrlabl>
+<attrdef>Cultural self identification: other</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P16008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17001</attrlabl>
+<attrdef>Nationality or indigenous tribe: Awa</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17002</attrlabl>
+<attrdef>Nationality or indigenous tribe: Achuar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17003</attrlabl>
+<attrdef>Nationality or indigenous tribe: Chachi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17004</attrlabl>
+<attrdef>Nationality or indigenous tribe: Cofan</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17005</attrlabl>
+<attrdef>Nationality or indigenous tribe: Epera</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17006</attrlabl>
+<attrdef>Nationality or indigenous tribe: Siona</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17007</attrlabl>
+<attrdef>Nationality or indigenous tribe: Secoya</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17008</attrlabl>
+<attrdef>Nationality or indigenous tribe: Shiwiar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17009</attrlabl>
+<attrdef>Nationality or indigenous tribe: Shuar</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17010</attrlabl>
+<attrdef>Nationality or indigenous tribe: Taschila</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17011</attrlabl>
+<attrdef>Nationality or indigenous tribe: Waorani</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17012</attrlabl>
+<attrdef>Nationality or indigenous tribe: Zapara</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17013</attrlabl>
+<attrdef>Nationality or indigenous tribe: Andoa</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17014</attrlabl>
+<attrdef>Nationality or indigenous tribe: Kichwa de la sierra</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17021</attrlabl>
+<attrdef>Nationality or indigenous tribe: Pastos</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17022</attrlabl>
+<attrdef>Nationality or indigenous tribe: Natabuela</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17023</attrlabl>
+<attrdef>Nationality or indigenous tribe: Otavalo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17024</attrlabl>
+<attrdef>Nationality or indigenous tribe: Karanki</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17024</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17025</attrlabl>
+<attrdef>Nationality or indigenous tribe: Kayambi</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17025</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17026</attrlabl>
+<attrdef>Nationality or indigenous tribe: Kitukara</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17026</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17027</attrlabl>
+<attrdef>Nationality or indigenous tribe: Panzaleo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17027</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17028</attrlabl>
+<attrdef>Nationality or indigenous tribe: Chibuelo</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17028</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17029</attrlabl>
+<attrdef>Nationality or indigenous tribe: Salasaka</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17029</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17030</attrlabl>
+<attrdef>Nationality or indigenous tribe: Kisapincha</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17030</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17031</attrlabl>
+<attrdef>Nationality or indigenous tribe: Tomabela</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17031</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17032</attrlabl>
+<attrdef>Nationality or indigenous tribe: Waranka</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17032</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17033</attrlabl>
+<attrdef>Nationality or indigenous tribe: Puruha</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17033</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17034</attrlabl>
+<attrdef>Nationality or indigenous tribe: Kanari</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17034</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17035</attrlabl>
+<attrdef>Nationality or indigenous tribe: Saraguro</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17035</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17036</attrlabl>
+<attrdef>Nationality or indigenous tribe: Paltas</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17036</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17037</attrlabl>
+<attrdef>Nationality or indigenous tribe: Manta</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17037</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17038</attrlabl>
+<attrdef>Nationality or indigenous tribe: Huancavilca</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17038</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17088</attrlabl>
+<attrdef>Nationality or indigenous tribe: Other nationalities</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P17039</attrlabl>
+<attrdef>Nationality or indigenous tribe: Unknown</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P17039</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P19001</attrlabl>
+<attrdef>Knows how to read and write</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P19001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P19002</attrlabl>
+<attrdef>Does not know how to read and write</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P19002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P21001</attrlabl>
+<attrdef>Currently attends a regular educational institution</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P21001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P21002</attrlabl>
+<attrdef>Does not attend a regular educational institution</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P21002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P22001</attrlabl>
+<attrdef>Attends a public educational institution</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P22001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P22002</attrlabl>
+<attrdef>Attends a private institution</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P22002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P22003</attrlabl>
+<attrdef>Attends a government agency</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P22003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P22004</attrlabl>
+<attrdef>Attends a municipal school</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P22004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23001</attrlabl>
+<attrdef>No level of schooling</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23002</attrlabl>
+<attrdef>Highest level of schooling: literacy centers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23003</attrlabl>
+<attrdef>Highest level of schooling: preschool</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23004</attrlabl>
+<attrdef>Highest level of schooling: Primary (1-6th grade)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23005</attrlabl>
+<attrdef>Highest level of schooling: Secondary</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23006</attrlabl>
+<attrdef>Highest level of schooling: Basic education (1-10th grade)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23007</attrlabl>
+<attrdef>Highest level of schooling: High school</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23008</attrlabl>
+<attrdef>Highest level of schooling: Post high school (technical, pedagogical)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23009</attrlabl>
+<attrdef>Highest level of schooling: Undergraduate studies and polytechnic</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23010</attrlabl>
+<attrdef>Highest level of schooling: Graduate</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P23011</attrlabl>
+<attrdef>Highest level of schooling: Unknown</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P23011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P25001</attrlabl>
+<attrdef>Has a diploma recognized by the CONESUP  (National council for higher education)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P25001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P25002</attrlabl>
+<attrdef>Has a diploma but it is not recognized by the CONESUP (National council for higher education)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P25002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P25003</attrlabl>
+<attrdef>Does not have a diploma</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P25003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P25004</attrlabl>
+<attrdef>Unknown diploma status</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P25004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>OBJECTID_2</attrlabl>
+<attrdef>Object identifier</attrdef>
+<attrdefs>Tufts University. Geographic Information Systems Center</attrdefs>
+<attalias Sync="TRUE">OBJECTID_2</attalias>
+<attrtype Sync="TRUE">Number</attrtype>
+<attwidth Sync="TRUE">9</attwidth>
+</attr>
+<attr>
+<attrlabl>P26001</attrlabl>
+<attrdef>Title of diploma: Physicists and astronomers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26002</attrlabl>
+<attrdef>Title of diploma: Meteorologist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26003</attrlabl>
+<attrdef>Title of diploma: Chemist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26004</attrlabl>
+<attrdef>Title of diploma: Technologist and chemical technologist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26005</attrlabl>
+<attrdef>Title of diploma: Geologist and geo physicist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26006</attrlabl>
+<attrdef>Title of diploma: Mathematicians, actuaries, and statisticians</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26007</attrlabl>
+<attrdef>Title of diploma: Graduate in math and statistics</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26008</attrlabl>
+<attrdef>Title of diploma: Biologist, botanist, zoologist, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26009</attrlabl>
+<attrdef>Title of diploma: Graduate in biology</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26010</attrlabl>
+<attrdef>Title of diploma: Agronomist and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26011</attrlabl>
+<attrdef>Title of diploma: Technicians and technologist in farming and agro-industry</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26012</attrlabl>
+<attrdef>Title of diploma: Professional in environmental protection</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26013</attrlabl>
+<attrdef>Title of diploma: Technicians and technologist in environment protection</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26014</attrlabl>
+<attrdef>Title of diploma: Graduate in environmental protection</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26015</attrlabl>
+<attrdef>Title of diploma: Industrial and production engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26016</attrlabl>
+<attrdef>Title of diploma: Civil engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26017</attrlabl>
+<attrdef>Title of diploma: Environmental engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26018</attrlabl>
+<attrdef>Title of diploma: Mechanical engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26019</attrlabl>
+<attrdef>Title of diploma: Chemical engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26020</attrlabl>
+<attrdef>Title of diploma: Mining, metal, and related engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26021</attrlabl>
+<attrdef>Title of diploma: Engineers that fall under non-classified categories</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26022</attrlabl>
+<attrdef>Title of diploma: Industrial technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26023</attrlabl>
+<attrdef>Title of diploma: Civil engineering technologist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26024</attrlabl>
+<attrdef>Title of diploma: Mechanical technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26024</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26025</attrlabl>
+<attrdef>Title of diploma: Mining, metal, and related technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26025</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26026</attrlabl>
+<attrdef>Title of diploma: Graduate in mining, metal, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26026</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26027</attrlabl>
+<attrdef>Title of diploma: Technicians, technologists, and graduates in other non-classified categories</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26027</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26028</attrlabl>
+<attrdef>Title of diploma: Electrician engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26028</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26029</attrlabl>
+<attrdef>Title of diploma: Electrical technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26029</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26030</attrlabl>
+<attrdef>Title of diploma: Electrical engineer</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26030</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26031</attrlabl>
+<attrdef>Title of diploma: Electrical technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26031</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26032</attrlabl>
+<attrdef>Title of diploma: Telecommunication engineer</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26032</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26033</attrlabl>
+<attrdef>Title of diploma: Technicias and technologists in telecommunication</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26033</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26034</attrlabl>
+<attrdef>Title of diploma: Architects</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26034</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26035</attrlabl>
+<attrdef>Title of diploma: Landscape architects</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26035</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26036</attrlabl>
+<attrdef>Title of diploma: Product and clothes designer</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26036</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26037</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in product design</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26037</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26038</attrlabl>
+<attrdef>Title of diploma: Urban planners and transit engineers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26038</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26039</attrlabl>
+<attrdef>Title of diploma: Cartographers and surveyors</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26039</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26040</attrlabl>
+<attrdef>Title of diploma: Graphic and multimedia designers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26040</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26041</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in graphic design</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26041</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26042</attrlabl>
+<attrdef>Title of diploma: Graduates in graphic design and multimedia</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26042</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26043</attrlabl>
+<attrdef>Title of diploma: General physicians</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26043</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26044</attrlabl>
+<attrdef>Title of diploma: Specialized physician</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26044</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26045</attrlabl>
+<attrdef>Title of diploma: Nursing professional</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26045</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26046</attrlabl>
+<attrdef>Title of diploma: Graduates in nursing</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26046</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26047</attrlabl>
+<attrdef>Title of diploma: Professionals in midwifery</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26047</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26048</attrlabl>
+<attrdef>Title of diploma: Professionals in alternative and traditional medicine</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26048</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26049</attrlabl>
+<attrdef>Title of diploma: Paramedic practitioners</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26049</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26050</attrlabl>
+<attrdef>Title of diploma: Veterinaries</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26050</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26051</attrlabl>
+<attrdef>Title of diploma: Dentists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26051</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26052</attrlabl>
+<attrdef>Title of diploma: Pharmacist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26052</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26053</attrlabl>
+<attrdef>Title of diploma: Physiotherapist</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26053</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26054</attrlabl>
+<attrdef>Title of diploma: Graduate in physiotherapy and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26054</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26055</attrlabl>
+<attrdef>Title of diploma: Dietists and nutrionists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26055</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26056</attrlabl>
+<attrdef>Title of diploma: Audiologists and speech therapists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26056</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26057</attrlabl>
+<attrdef>Title of diploma: Optometrists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26057</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26058</attrlabl>
+<attrdef>Title of diploma: Graduate in optometry and optician</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26058</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26059</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in health</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26059</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26060</attrlabl>
+<attrdef>Title of diploma: Graduates in medical laboratory</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26060</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26061</attrlabl>
+<attrdef>Title of diploma: PhDs in education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26061</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26062</attrlabl>
+<attrdef>Title of diploma: University professors and higher education (social science)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26062</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26063</attrlabl>
+<attrdef>Title of diploma: University professors and higher education (Natural sciences)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26063</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26064</attrlabl>
+<attrdef>Title of diploma: Other professors in higher education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26064</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26065</attrlabl>
+<attrdef>Title of diploma: Graduate in educational science (social science)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26065</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26066</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (natural sciences)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26066</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26067</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (accounting, banking and finance)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26067</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26068</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (information and communication)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26068</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26069</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (humanities and religion)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26069</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26070</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (arts and related)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26070</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26071</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (advertising, marketing, commercialization)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26071</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26072</attrlabl>
+<attrdef>Title of diploma: Graduate in educational sciences (environment)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26072</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26073</attrlabl>
+<attrdef>Title of diploma: Graduate in educational (health, physiology, and related)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26073</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26074</attrlabl>
+<attrdef>Title of diploma: Other graduates in educational sciences</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26074</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26075</attrlabl>
+<attrdef>Title of diploma: Professors in vocational training</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26075</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26076</attrlabl>
+<attrdef>Title of diploma: Professors in secondary education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26076</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26077</attrlabl>
+<attrdef>Title of diploma: Teachers in primary education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26077</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26078</attrlabl>
+<attrdef>Title of diploma: Teachers in pre-school</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26078</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26079</attrlabl>
+<attrdef>Title of diploma: Specialists in pedagogical methods</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26079</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26080</attrlabl>
+<attrdef>Title of diploma: Educators for special needs</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26080</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26081</attrlabl>
+<attrdef>Title of diploma: Other professors of languages</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26081</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26082</attrlabl>
+<attrdef>Title of diploma: Other professors of music</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26082</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26083</attrlabl>
+<attrdef>Title of diploma: Other professors of art</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26083</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26084</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26084</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26085</attrlabl>
+<attrdef>Title of diploma: Graduates in educatinal sciences (business and administration)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26085</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26086</attrlabl>
+<attrdef>Title of diploma: Instructors in information technology</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26086</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26087</attrlabl>
+<attrdef>Title of diploma: Other educational professionals-non classified</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26087</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26088</attrlabl>
+<attrdef>Title of diploma: Accountants</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26088</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26089</attrlabl>
+<attrdef>Title of diploma: Accounting technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26089</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26090</attrlabl>
+<attrdef>Title of diploma: Graduates in accounting</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26090</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26091</attrlabl>
+<attrdef>Title of diploma: Financial analysts</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26091</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26092</attrlabl>
+<attrdef>Title of diploma: Management/administration and organizational analysts</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26092</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26093</attrlabl>
+<attrdef>Title of diploma: Management/administration and organizational technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26093</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26094</attrlabl>
+<attrdef>Title of diploma: Specialists in policy/politics and human resources and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26094</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26095</attrlabl>
+<attrdef>Title of diploma: Graduates in policy/politics and human resources and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26095</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26096</attrlabl>
+<attrdef>Title of diploma: Specialists in professional training</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26096</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26097</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in administration, management, and leadership</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26097</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26098</attrlabl>
+<attrdef>Title of diploma: Advertising and commercialization professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26098</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26099</attrlabl>
+<attrdef>Title of diploma: Technicians and technologits in advertising and commercialization</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26099</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26100</attrlabl>
+<attrdef>Title of diploma: Graduate in advertising and commercialization</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26100</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26101</attrlabl>
+<attrdef>Title of diploma: Public relations professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26101</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26102</attrlabl>
+<attrdef>Title of diploma: Graduates in public relations</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26102</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26103</attrlabl>
+<attrdef>Title of diploma: Professionals in sales of technology and medicine (excluding information and communications technology)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26103</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26104</attrlabl>
+<attrdef>Title of diploma: Professionals in sales of information and communication technology</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26104</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26105</attrlabl>
+<attrdef>Title of diploma: System analysts</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26105</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26106</attrlabl>
+<attrdef>Title of diploma: Systems technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26106</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26107</attrlabl>
+<attrdef>Title of diploma: Graduates in systems</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26107</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26108</attrlabl>
+<attrdef>Title of diploma: Software developers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26108</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26109</attrlabl>
+<attrdef>Title of diploma: Web and multimedia developers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26109</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26110</attrlabl>
+<attrdef>Title of diploma: Web and multimedia technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26110</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26111</attrlabl>
+<attrdef>Title of diploma: Graduates in web and multimedia</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26111</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26112</attrlabl>
+<attrdef>Title of diploma: Website developers, program developers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26112</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26113</attrlabl>
+<attrdef>Title of diploma: Program/website technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26113</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26114</attrlabl>
+<attrdef>Title of diploma: Information technology and computer technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26114</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26115</attrlabl>
+<attrdef>Title of diploma: Database designers and administrators</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26115</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26116</attrlabl>
+<attrdef>Title of diploma: System administrators</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26116</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26117</attrlabl>
+<attrdef>Title of diploma: Computer network professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26117</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26118</attrlabl>
+<attrdef>Title of diploma: Specialists in databases and computer networks</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26118</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26119</attrlabl>
+<attrdef>Title of diploma: Lawyers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26119</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26120</attrlabl>
+<attrdef>Title of diplomas: Judges</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26120</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26121</attrlabl>
+<attrdef>Title of diploma: Legal technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26121</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26122</attrlabl>
+<attrdef>Title of diploma: Graduates in law</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26122</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26123</attrlabl>
+<attrdef>Title of diploma: Legal professionals in other categories (non classified)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26123</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26124</attrlabl>
+<attrdef>Title of diploma: Archivists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26124</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26125</attrlabl>
+<attrdef>Title of diploma: Librarians, documentalists, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26125</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26126</attrlabl>
+<attrdef>Title of diploma: Archivists, librarians, and related technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26126</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26127</attrlabl>
+<attrdef>Title of diploma: Graduates in archivists, librarians, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26127</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26128</attrlabl>
+<attrdef>Title of diploma: Administrative and executive secretaries</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26128</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26129</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in secretarial studies</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26129</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26130</attrlabl>
+<attrdef>Title of diploma: Economists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26130</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26131</attrlabl>
+<attrdef>Title of diploma: Sociologists, anthropologists, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26131</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26132</attrlabl>
+<attrdef>Title of diploma: Philosophers, historians, and specialists in political science</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26132</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26133</attrlabl>
+<attrdef>Title of diploma: Pscyhologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26133</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26134</attrlabl>
+<attrdef>Title of diploma: Professionals in social work (social workers)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26134</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26135</attrlabl>
+<attrdef>Title of diploma: Religious professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26135</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26136</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in economics</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26136</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26137</attrlabl>
+<attrdef>Title of diploma: Graduates in economics</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26137</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26138</attrlabl>
+<attrdef>Title of diploma: Graduates in sociology</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26138</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26139</attrlabl>
+<attrdef>Title of diploma: Graduates in psychology</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26139</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26140</attrlabl>
+<attrdef>Title of diploma: Graduates in social work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26140</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26141</attrlabl>
+<attrdef>Title of diploma: Journalists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26141</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26142</attrlabl>
+<attrdef>Title of diploma: Communication technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26142</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26143</attrlabl>
+<attrdef>Title of diploma: Graduates in journalism and communication</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26143</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26144</attrlabl>
+<attrdef>Title of diploma: Translators, interpreters, and linguists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26144</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26145</attrlabl>
+<attrdef>Title of diploma: Plastic art artists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26145</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26146</attrlabl>
+<attrdef>Title of diploma: Technicians and technologists in plastic arts and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26146</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26147</attrlabl>
+<attrdef>Title of diploma: Musicians and composers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26147</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26148</attrlabl>
+<attrdef>Title of diploma: Music technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26148</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26149</attrlabl>
+<attrdef>Title of diploma: Dancers and choreographers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26149</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26150</attrlabl>
+<attrdef>Title of diploma: Directors of movies, theater, and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26150</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26151</attrlabl>
+<attrdef>Title of diploma: Actors</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26151</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26152</attrlabl>
+<attrdef>Title of diploma: Tourist guides</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26152</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26153</attrlabl>
+<attrdef>Title of diploma: Hotel and tourism technicians and technologists</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26153</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26154</attrlabl>
+<attrdef>Title of diploma: Graduate in tourism and related</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26154</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26155</attrlabl>
+<attrdef>Title of diploma: Teacher (no specification)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26155</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26156</attrlabl>
+<attrdef>Title of diploma: Administrator (no specification)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26156</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26157</attrlabl>
+<attrdef>Title of diploma: Doctorate (no specification)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26157</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26158</attrlabl>
+<attrdef>Title of diploma: Technical certificate/associates degree (no specification)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26158</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26159</attrlabl>
+<attrdef>Title of diploma: PhD, master's degree no specification</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26159</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26160</attrlabl>
+<attrdef>Title of diploma: Designer (no specification)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26160</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26161</attrlabl>
+<attrdef>Title of diploma: Title not well defined</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26161</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P26162</attrlabl>
+<attrdef>Title of diploma: Unknown</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P26162</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27001</attrlabl>
+<attrdef>Performace last week: worked at least an hour</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27002</attrlabl>
+<attrdef>Performance last week: Didn't work but have work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27003</attrlabl>
+<attrdef>Performance last week: Worked at least one hour producing something or providing a service</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27004</attrlabl>
+<attrdef>Performance last week: Worked/helped at least an hour a family member in their business or work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27005</attrlabl>
+<attrdef>Performance last week: Worked at least one hour in agricultural labor or taking care of animals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27006</attrlabl>
+<attrdef>Performance last week: Unemployed, and looking for work while having worked before and having the  ability to work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P27007</attrlabl>
+<attrdef>Performance last week: Don't work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P27007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28001</attrlabl>
+<attrdef>Don't work but are looking for a job for the first time and am able to work</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28002</attrlabl>
+<attrdef>Don't work, but am a landlord, stockholder, or a person of independent means</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28003</attrlabl>
+<attrdef>Don't work and retired</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28004</attrlabl>
+<attrdef>Don't work and am a student</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28005</attrlabl>
+<attrdef>Don't work and am a homemaker/working with house chores</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28006</attrlabl>
+<attrdef>Don't work and there is a disability prohibiting working</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P28007</attrlabl>
+<attrdef>Don't work as a result of "other"</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P28007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29001</attrlabl>
+<attrdef>Branch of work: agriculture, ranching, forestry, and fishing</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29002</attrlabl>
+<attrdef>Branch of work: Mines and quarry operations</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29003</attrlabl>
+<attrdef>Branch of work: Manufacturing industries</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29004</attrlabl>
+<attrdef>Branch of work: Supply of electricities, gas, vapor, and air-conditioned air</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29005</attrlabl>
+<attrdef>Branch of work: Distribution of water, sewage system, and waste processing</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29006</attrlabl>
+<attrdef>Branch of work: Construction</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29007</attrlabl>
+<attrdef>Branch of work: Wholesale and retail trade</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29008</attrlabl>
+<attrdef>Branch of work: Transportation and storage</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29009</attrlabl>
+<attrdef>Branch of work: Activities related to lodging and storage</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29010</attrlabl>
+<attrdef>Branch of work: Information and communications</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29011</attrlabl>
+<attrdef>Branch of work: Activities related to finance and insurances</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29012</attrlabl>
+<attrdef>Branch of work: Activities related to real estate</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29013</attrlabl>
+<attrdef>Branch of work: Professional, scientific, and technical activities</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29013</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29014</attrlabl>
+<attrdef>Branch of work: Administrative services and support activities</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29014</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29015</attrlabl>
+<attrdef>Branch of work: Public administration and defense</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29015</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29016</attrlabl>
+<attrdef>Branch of work: Education</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29016</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29017</attrlabl>
+<attrdef>Branch of work: Human health/welfare activities (warning?)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29017</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29018</attrlabl>
+<attrdef>Branch of work: Arts, entertainment, and recreation</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29018</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29019</attrlabl>
+<attrdef>Branch of work: Other service activities</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29019</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29020</attrlabl>
+<attrdef>Branch of work: House activities as employed</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29020</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29021</attrlabl>
+<attrdef>Branch of work: International organizations or organizations who enjoy extraterritoriality (ie exempted from local laws)</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29021</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29022</attrlabl>
+<attrdef>Branch of work: Not declared</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29022</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P29023</attrlabl>
+<attrdef>Branch of work: New worker</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P29023</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30001</attrlabl>
+<attrdef>Occupational group: Directors and managers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30002</attrlabl>
+<attrdef>Occupational group: Scientific and intelllectual professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30003</attrlabl>
+<attrdef>Occupational group: Medium level technicians and professionals</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30004</attrlabl>
+<attrdef>Occupational group: Administrative support staff</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30005</attrlabl>
+<attrdef>Occupational group: Service workers and merchants/salesmen</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30006</attrlabl>
+<attrdef>Occupational group: Farmworkers and qualified workers</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30007</attrlabl>
+<attrdef>Occupational group: Skilled workers, operators and craftsmen</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30008</attrlabl>
+<attrdef>Occupational group: Facilities and machine/equipment operators</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30009</attrlabl>
+<attrdef>Occupational group: "Basic" or "elementary" occupations</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30010</attrlabl>
+<attrdef>Occupational group: Military occupations</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30010</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30011</attrlabl>
+<attrdef>Occupational group: Not declared</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30011</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P30012</attrlabl>
+<attrdef>Occupational group: New worker</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P30012</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31001</attrlabl>
+<attrdef>Occupational category: Public</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31001</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31002</attrlabl>
+<attrdef>Occupational category: Private</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31002</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31003</attrlabl>
+<attrdef>Occupational category: Day laborer</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31003</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31004</attrlabl>
+<attrdef>Occupational category: Owner/employer/supervisor</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31004</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31005</attrlabl>
+<attrdef>Occupational category: Partner</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31005</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31006</attrlabl>
+<attrdef>Occupational category: Self-employment</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31006</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31007</attrlabl>
+<attrdef>Occupational category: Non-remunerated worker</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31007</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31008</attrlabl>
+<attrdef>Occupational category: Domestic worker</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31008</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+<attr>
+<attrlabl>P31009</attrlabl>
+<attrdef>Occupational category: Unknown</attrdef>
+<attrdefs>Instituto Nacional de Estadistica y Censos (Ecuador)</attrdefs>
+<attalias Sync="TRUE">P31009</attalias>
+<attrtype Sync="TRUE">Float</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atnumdec Sync="TRUE">11</atnumdec>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+</cntorgp>
+<cntpos>GIS Data Analyst</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</distrib>
+<resdesc>Online Dataset</resdesc>
+<stdorder>
+<digform>
+<digtinfo>
+<transize>13.102</transize>
+<dssize Sync="TRUE">22.364</dssize>
+</digtinfo>
+</digform>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20130710</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>Tufts University GIS Center</cntorg>
+<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+</cntorgp>
+<cntpos>GIS Data Analyst</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>Academic Technology</address>
+<address>16 Dearborn Ave</address>
+<city>Somerville</city>
+<state>MA</state>
+<postal>02144</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>617-627-3380</cntvoice>
+<cntemail>gis-support@elist.tufts.edu</cntemail>
+<hours>Monday-Friday, 9:00 AM-5:00 PM, EST-USA</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<metextns>
+<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+<langmeta Sync="TRUE">en</langmeta>
+<metextns>
+<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4000</envirDesc>
+<dataLang>
+<languageCode Sync="TRUE" value="en"/>
+</dataLang>
+<idCitation>
+<resTitle Sync="TRUE">EcuadorLev3PopulationCensus10</resTitle>
+<presForm>
+<PresFormCd Sync="TRUE" value="005"/>
+</presForm>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd Sync="TRUE" value="001"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="native">
+<westBL Sync="TRUE">-732143.4883</westBL>
+<eastBL Sync="TRUE">1147851.6417</eastBL>
+<northBL Sync="TRUE">10189398.3531</northBL>
+<southBL Sync="TRUE">9445216.3501</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<geoBox esriExtentType="decdegrees">
+<westBL Sync="TRUE">-92.045254</westBL>
+<eastBL Sync="TRUE">-75.165912</eastBL>
+<northBL Sync="TRUE">1.713541</northBL>
+<southBL Sync="TRUE">-5.019173</southBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</geoBox>
+</dataIdInfo>
+<mdLang>
+<languageCode Sync="TRUE" value="en"/>
+</mdLang>
+<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+<mdChar>
+<CharSetCd Sync="TRUE" value="004"/>
+</mdChar>
+<mdHrLv>
+<ScopeCd Sync="TRUE" value="005"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<distInfo>
+<distributor>
+<distorTran>
+<onLineSrc>
+<orDesc Sync="TRUE">002</orDesc>
+<linkage Sync="TRUE">file://\\rstore2\gisprojects$\GIS_Center_Projects\EnterpriseGIS\Layers\Ecuador\EcuadorLev3PopulationCensus10.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</onLineSrc>
+<transSize Sync="TRUE">22.364</transSize>
+</distorTran>
+<distorFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distorFormat>
+</distributor>
+</distInfo>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode Sync="TRUE">WGS_1984_UTM_Zone_17S</identCode>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<topLvl>
+<TopoLevCd Sync="TRUE" value="001"/>
+</topLvl>
+<geometObjs Name="EcuadorLev3PopulationCensus10">
+<geoObjTyp>
+<GeoObjTypCd Sync="TRUE" value="001"/>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">1025</geoObjCnt>
+</geometObjs>
+</VectSpatRep>
+</spatRepInfo>
+<Esri>
+<SyncDate>20131108</SyncDate>
+<SyncTime>11060700</SyncTime>
+<ModDate>20131108</ModDate>
+<ModTime>11060700</ModTime>
+</Esri>
+<mdDateSt Sync="TRUE">20131108</mdDateSt>
+</metadata>
