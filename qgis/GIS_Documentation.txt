@@ -121,14 +121,31 @@ affected by different hazards
 
 Created dissolved shapefile with boundary of this affected area
 
-Now need to calculate area covered by lahars, here and in Qutio. 
+Now need to calculate area covered by lahars, here and in Qutio. "Overlap Analysis"
 
 Determine number of people impacted by different hazards in all, > 1,600,000 affected by 
 historicla eruptions
 
+RESULTS: 1.6 million people impacted by proximal hazards - > 2 million affected by ash.
+~6% of surrounding municipalities will be covered by lahars, nearly 9% of Quito. That translates
+to > 130,000 people directly threatened by lahars(assuming an even population distribution 
+throughout the city)
+
+
 10) Layout + Exporting 
 
 Raster visualization --> Terrain Map View to make a beautiful underlying DEM
+
+Created separate hillshade and pseudcolor to make for a more pleasing underlying terrain visualization
+Resymbolized layers to show ash isopachs with different patterns, affected areas as multi-colored
+border. THen made an "easy Custom Label" for GP and Quito. To keep these easy custom labels, 
+downloaded "Memory Saver" Plugin. 
+
+Used layout elements to add North Arrow, scale bar, inset map, legend, and text labels.
+
+Exported as high res SVG, PDF, and PNG
+
+***For custom labels, use memory saver plugin***
 
 IDEAS FOR ADVANCED COURSE
 

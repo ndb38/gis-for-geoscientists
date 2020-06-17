@@ -1,17 +1,18 @@
 Statistic	POP value for 30 mm ash isopack
-Count	14
-Sum	2.01844e+06
-Mean	144174
-Median	9530
-St dev (pop)	416205
-St dev (sample)	431917
+
+Count	17
+Sum	2.14733e+06
+Mean	126313
+Median	9725
+St dev (pop)	379903
+St dev (sample)	391595
 Minimum	1494
 Maximum	1.61915e+06
 Range	1.61765e+06
 Minority	1494
 Majority	1494
-Variety	14
-Q1	3026
-Q3	13731
-IQR	10705
+Variety	17
+Q1	3661
+Q3	20445
+IQR	16784
 Missing (null) values	0
