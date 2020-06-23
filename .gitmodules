@@ -1,0 +1,3 @@
+[submodule "QGIS-Live-Demo-Guide"]
+	path = QGIS-Live-Demo-Guide
+	url = https://github.com/ndb38/QGIS-Live-Demo-Guide
