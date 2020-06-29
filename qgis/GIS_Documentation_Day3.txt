@@ -1,0 +1,70 @@
+## QGIS Session 3: Advanced QGIS
+
+Step 1: Manually create Georeferenced map & CSV from 1991 GP paper
+
+Just show them the finished products
+
+Step 2: Import GEOROC CSV
+
+Show steps - import based on LAT_MIN, LONG_MIN
+
+Then save as a shapefile
+
+Then re-add shapefile
+
+Step 3: Manually create sample points from 1991 paper
+
+Point centroid on map selected. Assigned 3 fields - internal GIS ID, sample ID from paper,
+sample name/comment from Table 2
+
+Skipped adding points that only had measurements in Table 1
+
+Step 4: Import non-referenced CSV from 1991 paper
+
+Import as non-spatially defined CSVs. Null values left as empty fields
+
+Step 5: Spatial Join
+
+Right click on locs_COPY layer, select Joins, and add a new join. Join on sample Don't add a prefix.
+
+Export joined shapefile as a new shapefile with prefix _hydrogeochem to make join 
+permanent
+
+Step 6: Validate to make sure data in right place.
+
+Step 7: Perform IDW Interpolation 
+
+inteprolated pH, set Vector layer = spring_hydrogeochem, attribute = pH, type = point, 
+distance coeff = 2, extent = hydrogeochem layer, raster size with pixel X and Y = 1, saved to temporary file
+
+Pixel size of 1 is way too high res - 10 at minimum next time
+
+Step 8: Perform KDE Heatmap interpolation (optional)
+
+Step 9: Python Script!!!!!
+
+NEED TO READ THROUH PyQGIS developer cookbook to figure otu what I'm going to show. It's easier
+to use the built in functionality in QGIS to make multiple IDW maps. So what's worth coding?
+
+
+##END SECTION 1
+
+Step 9: Road Layer - Introduction to Symbol Levels
+
+Change symbol style to "Locked Roads"
+
+Inspect and show problem with symbol
+
+Enable "Symbol Layers" under advanced
+
+Show that roads now look nice
+
+Step 10: Draw Effects
+
+Show off with GP point layer
+
+- shadow
+- inner glow
+- eometry generator with buffer
+
+Step 11: Point layer heatmap

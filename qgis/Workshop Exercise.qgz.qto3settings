@@ -1,0 +1,299 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "georoc_pts_d0a2ef3d_e628_4687_a182_10a61707bea9",
+      "name": "georoc_pts",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "georoc_proj_5ab1575e_5f02_4117_b272_918eadfce785",
+      "name": "georoc_proj",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Label_d2de1a95_9b6a_4732_b4c0_0a665d8161c2",
+      "name": "Label_guagua_pichincha",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "guagua_pichincha_4853686a_b743_4025_ab63_20f01e5d34d7",
+      "name": "guagua_pichincha",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "volc_buffer_7920f824_385f_493b_9756_ecae3f926a45",
+      "name": "volc_buffer",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "lahar_clipped_06584f5f_54fe_4429_b245_e7a0c74e0d6d",
+      "name": "lahar_clipped",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ash_30mm_isopach_edaa651a_f605_4e1e_a800_7f9b28f8715d",
+      "name": "ash_30mm_isopach",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ash_90mm_isopach_c9d3bbbb_bfde_4009_b28f_d4efe2a5f0ba",
+      "name": "ash_90mm_isopach",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "lahar_clip_adf73c3f_d4cc_431b_a40b_72f8fdf717f6",
+      "name": "lahar_clip",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "lahars_a5637660_93b5_4785_8d04_82fd25642523",
+      "name": "lahars",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ecu_roads_4ab05e8a_7f51_4207_b216_c9cf50d1b215",
+      "name": "ecu_roads",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADOR1MROADS11_cadf33ea_437d_41bf_ab4a_b6e083adb666",
+      "name": "GISPORTAL_GISOWNER01_ECUADOR1MROADS11",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ecu_coasts_155e1e01_9574_4416_b0c8_5390a656e8f4",
+      "name": "ecu_coasts",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADOR1MAIRPORTS08_0eda5466_9327_4b8d_bc64_7ab8e7e9e996",
+      "name": "GISPORTAL_GISOWNER01_ECUADOR1MAIRPORTS08",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADOR1MCOAST08_26fc5c73_1546_40aa_bdf5_cd42cf8dcd9d",
+      "name": "GISPORTAL_GISOWNER01_ECUADOR1MCOAST08",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ecu_rivers_796ee895_3c48_46b8_9166_1976b056a4d3",
+      "name": "ecu_rivers",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADOR1MTORRENTRIVERS08_6e6c70cf_db8e_4ca3_be76_d5621012ae7e",
+      "name": "GISPORTAL_GISOWNER01_ECUADOR1MTORRENTRIVERS08",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADORLEV3POPULATIONCENSUS10_b8639c52_a4ba_4b54_a877_0cc5f3625ddf",
+      "name": "GISPORTAL_GISOWNER01_ECUADORLEV3POPULATIONCENSUS10",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "quito_1f727da8_97b2_4479_894a_a3a55017da83",
+      "name": "quito",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "quito_overlap_5dbbfe5f_7d6d_4bfd_ab6e_2f8673fd0b3c",
+      "name": "quito_overlap",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "affected_area_guagua_pichincha_e382100c_f9bc_40a6_a868_bd768c386fc6",
+      "name": "affected_area_guagua_pichincha",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "affected_area_overlap_daef16ae_0957_4578_af2b_75586f627a13",
+      "name": "affected_area_overlap",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "regional_affected_area_2f13265e_cc31_4e71_ad06_98512122879b",
+      "name": "regional_affected_area",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ecu_popcensus_4996110c_b85a_4523_a141_8711ec7493ac",
+      "name": "ecu_popcensus",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ecuador_country_944a209d_54cf_437d_9696_28c73fbce620",
+      "name": "ecuador_country",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "contour_100m_b83a5123_0ca8_48fb_8e40_a5bfabcb6262",
+      "name": "contour_100m",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "dem_merged_tif_835347d0_3038_489c_952b_69cc24a562ed",
+      "name": "dem_merged.tif",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "volc_buffer_7920f824_385f_493b_9756_ecae3f926a45",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_SideColor": "0xccbbaa"
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "dem_hillshade_e29b7074_93e0_4a95_80f7_19ee6cb7fb6b",
+      "name": "dem_hillshade",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "volc_buffer_7920f824_385f_493b_9756_ecae3f926a45",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_SideColor": "0xccbbaa"
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "dem_filled_s_quito_tif_5153c25b_a988_470b_bd2b_a35cda8634bf",
+      "name": "dem_filled_s_quito.tif",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "dem_filled_n_quito_tif_2180bfaf_7d30_4028_91e3_7e51f04ac568",
+      "name": "dem_filled_n_quito.tif",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ecu_parroquia_level3_246a30a2_3ef1_48f8_a23f_4b14b49382a6",
+      "name": "ecu_parroquia_level3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADORLEVEL3ADMIN12_f6300e45_2893_40e3_8892_ef6d443602ef",
+      "name": "GISPORTAL_GISOWNER01_ECUADORLEVEL3ADMIN12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ecu_canton_level2_df1e78be_1d30_4dd9_8758_a4a5f945978c",
+      "name": "ecu_canton_level2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADORLEVEL2ADMIN12_3d79080d_d4a4_428a_97b4_4f910e7fd526",
+      "name": "GISPORTAL_GISOWNER01_ECUADORLEVEL2ADMIN12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ecu_province_level1_d008d150_0622_46f1_8c36_5d6ae268e9e9",
+      "name": "ecu_province_level1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "GISPORTAL_GISOWNER01_ECUADORLEVEL1ADMIN12_b607a80d_132d_472c_9710_386baf9d8502",
+      "name": "GISPORTAL_GISOWNER01_ECUADORLEVEL1ADMIN12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ]
+}
