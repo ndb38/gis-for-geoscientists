@@ -1,5 +1,7 @@
 ## QGIS Session 3: Advanced QGIS
 
+### Advanced Calculations
+
 Step 1: Manually create Georeferenced map & CSV from 1991 GP paper
 
 Just show them the finished products
@@ -39,15 +41,24 @@ distance coeff = 2, extent = hydrogeochem layer, raster size with pixel X and Y 
 
 Pixel size of 1 is way too high res - 10 at minimum next time
 
-Step 8: Perform KDE Heatmap interpolation (optional)
+Step 8: Landslide risk example (see QGIS Training Manual)
 
-Step 9: Python Script!!!!!
+Show simple model of landslide risk using our DEMs
 
-NEED TO READ THROUH PyQGIS developer cookbook to figure otu what I'm going to show. It's easier
-to use the built in functionality in QGIS to make multiple IDW maps. So what's worth coding?
+Import raw rainfall data
+
+Calculate slope Raster
+
+COnvert rainfall data to right projection, then Rasterize (100x100, ecuador bounds)
+
+Raster calculator (slope * rainfall)/100 = landslide risk
+
+Zonal Statistics on ecu_popcensus and landlside risk
 
 
 ##END SECTION 1
+
+##SECTION 2
 
 Step 9: Road Layer - Introduction to Symbol Levels
 
@@ -65,6 +76,59 @@ Show off with GP point layer
 
 - shadow
 - inner glow
-- eometry generator with buffer
+- geometry generator with buffer
 
 Step 11: Point layer heatmap
+
+Show off how to make this
+
+Step 12: Raster Symbology
+
+Show raw DEM
+
+Close Gaps
+
+Then show Hillshade tool in Processing toolbox
+
+Create hillshade, and style with "Bilinear" Sampling
+
+"Hard Light" rendering for pseudocolor layer
+
+Overlay
+
+Step 13: 3D Viewer
+
+Open 3D viewer panel
+
+Load topopgraphy data
+
+Show output layout
+
+### SECTION 3: More advanced calculations/data
+
+Step 14: One geology spatial database connection:
+
+1) WMS Connection: Canadian Natural Resouces
+
+Create WMS connectrion with https://open.canada.ca/data/en/dataset/752fe3fc-d871-5ae1-9bd9-2b6f65880a8d
+
+2) WFS Connection
+
+Smithsonian GVP
+
+##Python
+
+Step 15: Load world country layer with python script
+
+script "load_vector.py"
+
+Step 16: Buffer those countries
+
+Script "buffer_countries.py"
+
+Step 17: Introduce the PyQt5 and QGIS core API & Cookbook
+
+Don't need to go over this in huge detail; better for them to explore themselves
+
+
+
