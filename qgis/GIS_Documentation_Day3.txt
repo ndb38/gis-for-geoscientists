@@ -55,7 +55,6 @@ Raster calculator (slope * rainfall)/100 = landslide risk
 
 Zonal Statistics on ecu_popcensus and landlside risk
 
-
 ##END SECTION 1
 
 ##SECTION 2
