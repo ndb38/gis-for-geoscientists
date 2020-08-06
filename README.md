@@ -1,7 +1,6 @@
 # Welcome to the Home page for the "GIS for Geoscientists" workshop series! 
 
-![Header Image](gis-for-geoscientists/qgis/Outputs/Figure1_HazardMap_GP.png)
-Format: ![Alt Text](Test)
+![Image Exercise 2 Output Map](https://github.com/ndb38/gis-for-geoscientists/blob/master/qgis/Outputs/Figure1_HazardMap_GP.png)
 
 This workshop was first presented online via Zoom, with the support of the McGill SEG Student Chapter in June 2020. 
 
