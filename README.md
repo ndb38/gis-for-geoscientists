@@ -22,6 +22,7 @@ This course is distributed under an MIT License. Feel free to share and use as y
 - [ ] Finish session 3 Guide
 - [ ] Post citation list for images + data
 - [ ] Add installation guide resources
+- [ ] Fill out GitHub Pages theme page
 
 # Get in touch & Book a Workshop
 
