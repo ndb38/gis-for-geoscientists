@@ -16,12 +16,15 @@ This course is distributed under an MIT License. Feel free to share and use as y
 
 # Active task list:
 
+- [x] Meet with McGill SEG Coordinators
+- [x] Create Course Outline + Course Objectives
 - [x] Complete and post lectures
-- [x] Populate with all data neededto perform tasks
+- [x] Populate with all data needed to perform tasks & documentation
+- [x] Perform exercises myself; verify everything works
 - [ ] Finish Session 2 Guide
 - [ ] Finish session 3 Guide
 - [ ] Post citation list for images + data
-- [ ] Add installation guide resources
+- [ ] Add installation guide & resources
 - [ ] Fill out GitHub Pages theme page
 
 # Get in touch & Book a Workshop
