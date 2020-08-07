@@ -21,15 +21,26 @@ This course is distributed under an MIT License. Feel free to share and use as y
 - [x] Complete and post lectures
 - [x] Populate with all data needed to perform tasks & documentation
 - [x] Perform exercises myself; verify everything works
+- [ ] Complete UCL Workshop Series
 - [ ] Finish Session 2 Guide
 - [ ] Finish session 3 Guide
 - [ ] Post citation list for images + data
 - [ ] Add installation guide & resources
 - [ ] Fill out GitHub Pages theme page
 
-# Get in touch & Book a Workshop
+# Get in touch
 
 Feel free to get in touch with me at ndb38@cam.ac.uk if you have any questions. I also maintain a website showcasing my work and past workshops using [Wordpress](https://volcannick.com). If there are any issues with the data or you'd like to offer a comment/correction, submit a pull request and I'll aim to respond to requests within 24 hours.
+
+## Current Workshops
+
+Courtesy of [Dr. Emma Liu](https://www.ucl.ac.uk/earth-sciences/people/academic/dr-emma-liu), Lecturer in Volcanology and University College London (UCL), GIS for Geoscientists is to run in four session from August 10th to August 19th @ the UCL Department of Earth Sciences. Course partipants range in both prior GIS knowledge and career level, ranging from undergrad to faculty. In all, about 25 attendees are expected for the full workshop, which will run Monday and Wednesday afternoons for the next two weeks. 
+
+## Past workshops
+
+1. McGill University, Montreal, Canada (Student Chapter of the Society of Economic Geology on campus). Reference: Catherine Crotty, Sarah Bodeving, and Robert Collar.
+
+## Future Workshops
 
 **If you'd like to run this workshop at your institution, please get in touch!** I'm excited to share my GIS knowledge, and I'm happy to customize the course to address your specific needs. Contact me for a quote!
 
