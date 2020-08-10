@@ -1,0 +1,11 @@
+## Recommended books
+
+1) Monmonier, Mark. How to lie with maps. University of Chicago Press, 2018.
+https://www.amazon.co.uk/How-Maps-Third-Mark-Monmonier/dp/022643592X/ref=sr_1_1?dchild=1&keywords=how+to+lie+with+maps&qid=1597097203&s=books&sr=1-1
+
+2) Discover QGIS 3.X: A Workbook for the Classroom Or Independent Study. Kurt Menke.
+Locate Press, 29 Apr 2019 - Computers - 406 pages (https://www.amazon.co.uk/Discover-QGIS-3-x-Classroom-Independent/dp/099854776X)
+
+3) Geospatial Analysis. de Smith. 6th Edition. 2020. https://spatialanalysisonline.com/HTML/index.html
+
+4) 
