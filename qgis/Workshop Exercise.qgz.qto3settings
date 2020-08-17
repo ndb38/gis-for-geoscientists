@@ -8,13 +8,6 @@
       "visible": false
     },
     {
-      "geomType": 1,
-      "layerId": "georoc_proj_5ab1575e_5f02_4117_b272_918eadfce785",
-      "name": "georoc_proj",
-      "properties": {},
-      "visible": false
-    },
-    {
       "geomType": 2,
       "layerId": "Label_d2de1a95_9b6a_4732_b4c0_0a665d8161c2",
       "name": "Label_guagua_pichincha",
@@ -71,6 +64,111 @@
       "visible": false
     },
     {
+      "geomType": 0,
+      "layerId": "mask_1e04a646_a4de_4232_a532_bf194cc1c312",
+      "name": "mask",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "bool_0368922d_b86d_4792_ae89_d3fcf131f802",
+      "name": "bool",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "landslide_risk_ab4ce055_3dd5_4983_a67f_d2f97de98176",
+      "name": "landslide_risk",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "trmm_precip_mm_hr_86eb9ea5_f2cd_4739_a96f_4b35ad9ce8e8",
+      "name": "trmm_precip_mm_hr",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "dem_slope_e4dfd365_fc6d_4927_887c_4e15d9350a75",
+      "name": "dem_slope",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "trmm_precip_mhr_57b21a7f_a24e_468e_9378_9e322c6b734e",
+      "name": "trmm_precip_mhr",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "GIOVANNI_g4_timeAvgMap_TRMM_3B43_7_precipitation_20180101_20191231_82W_4S_75W_2N_0f851b32_0b18_4723_9805_066f9c24509b",
+      "name": "GIOVANNI-g4.timeAvgMap.TRMM_3B43_7_precipitation.20180101-20191231.82W_4S_75W_2N",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "georoc_proj_5ab1575e_5f02_4117_b272_918eadfce785",
+      "name": "georoc_proj",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "spring_sample_hydrogeochem_a765236f_be0e_4b57_82fe_9b38521ac719",
+      "name": "spring_sample_hydrogeochem",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "spring_sample_locs_18897a1b_3fd4_494f_bdbe_ea7f210b5ece",
+      "name": "spring_sample_locs",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "livedemo_join_6be26b0a_8438_4638_89f1_25a4d4e46800",
+      "name": "livedemo_join",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "spring_sample_locs_COPY_356b259d_e96f_41ae_b8d5_1c0157dd6a25",
+      "name": "spring_sample_locs_COPY",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "spring_pH_TIN_c74f2a76_5821_49ce_b6f7_424525daf68c",
+      "name": "spring_pH_TIN",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "spring_pH_IDW_df49d29a_a82c_467b_a9c1_e0eea4bc25ae",
+      "name": "spring_pH_IDW",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ucl_test_roads_1a86309c_77e2_460c_8b48_eb495307058d",
+      "name": "ucl_test_roads",
+      "properties": {},
+      "visible": false
+    },
+    {
       "geomType": 2,
       "layerId": "ecu_roads_4ab05e8a_7f51_4207_b216_c9cf50d1b215",
       "name": "ecu_roads",
@@ -79,8 +177,29 @@
     },
     {
       "geomType": 2,
+      "layerId": "ecu_roads_0a65a7dc_523b_434c_ae10_131599143b56",
+      "name": "ecu_roads copy",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
       "layerId": "GISPORTAL_GISOWNER01_ECUADOR1MROADS11_cadf33ea_437d_41bf_ab4a_b6e083adb666",
       "name": "GISPORTAL_GISOWNER01_ECUADOR1MROADS11",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "landsldie_risk_rast_07fc8860_8ca8_4001_8c9f_9b02310fce9c",
+      "name": "landsldie_risk_rast",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "mean_annual_precip_proj_662ef9ad_2069_48e5_ae34_4d531683c295",
+      "name": "mean_annual_precip_proj",
       "properties": {},
       "visible": false
     },
