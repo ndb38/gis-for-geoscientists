@@ -2,6 +2,8 @@
 
 ![Image Exercise 2 Output Map](https://github.com/ndb38/gis-for-geoscientists/blob/master/qgis/Outputs/Figure1_HazardMap_GP.png)
 
+Source of Hazard Data Used to make this map: https://www.researchgate.net/publication/336104232_The_New_Volcanic_Hazard_Map_of_Guagua_Pichincha_Volcano_Third_Edition_2019
+
 # Introduction
 
 This workshop was first presented online via Zoom with the support of the McGill SEG Student Chapter in June 2020. 
