@@ -41,11 +41,11 @@ distance coeff = 2, extent = hydrogeochem layer, raster size with pixel X and Y 
 
 Pixel size of 1 is way too high res - 10 at minimum next time
 
-Step 8: Landslide risk example (see QGIS Training Manual)
+Step 8: Landslide risk example (see QGIS Training Manual) https://docs.qgis.org/3.10/en/docs/training_manual/processing/geomorpho.html
 
 Show simple model of landslide risk using our DEMs
 
-Import raw rainfall data
+Import raw rainfall data (show GES DISC Giovanni visualizer)
 
 Calculate slope Raster
 
@@ -94,6 +94,8 @@ Create hillshade, and style with "Bilinear" Sampling
 "Hard Light" rendering for pseudocolor layer
 
 Overlay
+
+Show Mutually Exclusive Group Option
 
 Step 13: 3D Viewer
 
