@@ -11,6 +11,24 @@ echo 'export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH' >> ~/.bash_
 echo 'export PATH=/Users/nickbarber/anaconda3/lib/python3.7/site-packages/osgeo:$PATH' >> ~/.bash_profile
 source ~/.bash_profile
 
+FOR WINDOWS:
+
+Rather than the paths I recommend for Mac, you need to set a "Prepend," path in the 
+Environments menu that corresponds roughly to the following. This should fix GDAL issues!
+
+PYTHONPATH | C://ProgramFiles/QGIS3.10/apps/Python3.7/Scripts
+
+Ref: https://github.com/qgis/QGIS/issues/33386
+
+If Georeferencer is giving you issues, navigate to the following folder, and edit the
+[plugins] header under the QGIS.ini text file: 
+
+C:\Users\username\AppData\Roaming\QGIS\QGIS3\profiles\default\QGIS
+
+Set georefplugin=true under [plugins] near the bottom of the text file. 
+
+Ref: https://gis.stackexchange.com/questions/332800/qgis-georeferencing-plugin-workaround
+
 1) Required Software
 
 Users need to install QGIS 3.10 (Stable release). To do this, they need to install other
