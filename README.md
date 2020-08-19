@@ -23,7 +23,7 @@ This course is distributed under an MIT License. Feel free to share and use as y
 - [x] Complete and post lectures
 - [x] Populate with all data needed to perform tasks & documentation
 - [x] Perform exercises myself; verify everything works
-- [ ] Complete UCL Workshop Series
+- [x] Complete UCL Workshop Series
 - [ ] Finish Session 2 Guide
 - [ ] Finish session 3 Guide
 - [ ] Post citation list for images + data
@@ -36,11 +36,13 @@ Feel free to get in touch with me at ndb38@cam.ac.uk if you have any questions. 
 
 ## Current Workshops
 
-Courtesy of [Dr. Emma Liu](https://www.ucl.ac.uk/earth-sciences/people/academic/dr-emma-liu), Lecturer in Volcanology and University College London (UCL), GIS for Geoscientists is to run in four session from August 10th to August 19th @ the UCL Department of Earth Sciences. Course partipants range in both prior GIS knowledge and career level, ranging from undergrad to faculty. In all, about 25 attendees are expected for the full workshop, which will run Monday and Wednesday afternoons for the next two weeks. 
+None
 
 ## Past workshops
 
 1. McGill University, Montreal, Canada (Student Chapter of the Society of Economic Geology on campus). Reference: Catherine Crotty, Sarah Bodeving, and Robert Collar.
+2. University College London, London, UK. Primarily organized for Natural Hazards stduents in the Department of Earth Sciences. Reference: Dr. Emma Liu.
+"GIS for Geoscientists is to run in four session from August 10th to August 19th @ the UCL Department of Earth Sciences. Course partipants range in both prior GIS knowledge and career level, ranging from undergrad to faculty. In all, about 25 attendees are expected for the full workshop, which will run Monday and Wednesday afternoons for the next two weeks."
 
 ## Future Workshops
 
