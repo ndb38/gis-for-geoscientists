@@ -1,0 +1,165 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 LucidaGrande;\f2\fnil\fcharset0 LucidaGrande-Bold;
+\f3\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red192\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c75294\c0\c0;}
+\margl1440\margr1440\vieww9580\viewh11400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\qc\partightenfactor0
+
+\f0\b\fs48 \cf0 QGIS 3.10 LTR / macOS
+\i\b0\fs36 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\i0\fs28 \cf0 \
+\pard\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\i \cf0 3.10.8-2	2020-8-1\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\i0 \cf0 \
+This is QGIS 3 built for 
+\b Sierra
+\b0 , 
+\b High Sierra
+\b0 , 
+\b Mojave 
+\b0 and 
+\b Catalina
+\b0 .  It includes internal copies of GRASS 7.8, SAGA 7.3 and OTB 7.1.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b \cf2 Important install note:
+\b0 \cf0 \
+\
+The QGIS installer and app are NOT SIGNED, and for Catalina QGIS is NOT NOTARIZED. The first time you install and run QGIS the system will complain and refuse to install/run.  On Catalina it may complain on every update (I don;t have Catalina to test).\
+\
+To work around this problem, right-click or control-click the installer and select 
+\b Open
+\b0  from the menu that pops up.  You will then get an additional button to install anyways.  On Catalina you may have to also do this for the app.\
+\
+
+\b \cf2 Requirements - Very important!
+\b0 \cf0 \
+\
+This distribution requiresthe GDAL Complete 3.1 framework package (included on this disk image), and {\field{\*\fldinst{HYPERLINK "https://www.python.org/downloads/"}}{\fldrslt 
+\b Python 3.8}}, \ul included on this disk image\ulnone  (only python.org Python 3 is supported, another python 3 installation can't be substituted, ONLY 3.8).  Python must be installed before installing GDAL and QGIS.  Some Python modules are required and installed using pip from files in the installer.  Modules will be upgraded if already installed.  Installed modules include (plus any dependencies):\
+\
+owslib, PyYaml, psycopg2, jinja2, pygments, numpy, plotly\
+\
+The necessary GDAL Complete 3.1 frameworks are installed in /Library/Frameworks.  GDAL plugins for extra formats (ECW, MrSID), and extra grid files for PROJ, are available at {\field{\*\fldinst{HYPERLINK "http://www.kyngchaos.com/software/frameworks/"}}{\fldrslt 
+\b kyngchaos.com}} (make sure to install GDAL \ul 3.1\ulnone  plugins).\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b \cf0 Known Issues\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b0 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+\cf0 \ul \ulc0 Internal Program Paths\ulnone \
+\
+Some Processing paths are not set properly be default and need to be set (or updated) manually.  Open QGIS Preferences and select the Processing tab.  Set the following Provider paths:\
+\
+GRASS\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li709\fi-348\partightenfactor0
+\cf0 GRASS7 folder: /Applications/QGIS3.app/Contents/MacOS/grass\
+Location of GRASS docs: /Applications/QGIS3.app/Contents/MacOS/grass/docs/html\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+\cf0 OTB\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li709\fi-348\partightenfactor0
+\cf0 OTB application folder: /Applications/QGIS3.app/Contents/MacOS/lib/otb/applications\
+OTB folder: /Applications/QGIS3.app/Contents/MacOS\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+\cf0 \
+\ul External Program Paths\ulnone \
+\
+QGIS 3 does not find external tools needed for Processing.  Some configuration options are missing.  A workaround is to use QGIS custom variables.  Open QGIS Preferences 
+\f1 \uc0\u8594 
+\f0  System.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li354\fi4\partightenfactor0
+\cf0 - Under the 
+\b Environment
+\b0  section, turn on \ul Use Custom Variables\ulnone .\
+- Add (+) a variable\
+- Select \ul Prepend\ulnone  from the 
+\b Apply
+\b0  popup\
+- Enter \ul PATH\ulnone  for the variable\
+- For the 
+\b Value
+\b0  enter:\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li726\fi-7\partightenfactor0
+\cf0 /Library/Frameworks/Python.framework/Versions/3.8/bin:/Library/Frameworks/GDAL.framework/Versions/3.1/Programs:\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li354\fi4\partightenfactor0
+\cf0 - Quit QGIS 3 and start it again\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+\cf0 \
+NOTE: this must be updated when upgrading from a previous version of QGIS.\
+\
+\ul SAGA\ulnone \
+\
+A newer version of SAGA was needed with all the modern requirements of QGIS, but the Processing SAGA plugin has not been updated to fully support the new SAGA.  Some SAGA modules may have errors because of this.\
+\
+\ul If QGIS crashes on quit\ulnone \
+\
+There may be an old or incompatible plugin.  First, try updating plugins.  Next, try disabling or uninstalling plugins.\
+\
+\ul Slow File Dialogs on Mojave+\ulnone \
+\
+File dialogs may be slow on macOS Mojave or Catalina.  The problem appears to come from Accessibility, QGIS3 gets added to system security to allow it to control the computer, which it doesn't need.\
+\
+To work around this problem, open System Preferences.  Go to 
+\b Security & Privacy
+\b0  
+\f1 \uc0\u8594  
+\f2\b Privacy
+\f1\b0  \uc0\u8594  
+\f2\b Accessibility
+\f1\b0 .  If QGIS is there, unchceck it to not allow it to control your computer.  You may need to toggle it on and off (possibly try running QGIS between toggling).
+\f0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b \cf0 Python Modules\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b0 \cf0 \
+QGIS plugins may need extra Python modules to function.  The QGIS installer installs all the necessary Python modules for the builtin QGIS plugins.  The GDAL framework includes the GDAL python module.  The GEOS framework includes the Shapely module.  The PROJ framework includes the PROJ python module.  Other needed modules must be found and installed yourself.  Most can be installed with pip in a Terminal (requires an admin user):\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\partightenfactor0
+
+\f3\fs24 \cf0 sudo pip3.8 install modulename\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\f0\fs28 \cf0 \
+If you want to upgrade modules, add the -U option (do NOT do this for GDAL, Shapely or PROJ modules):\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\partightenfactor0
+
+\f3\fs24 \cf0 sudo pip3.8 install -U modulename\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\f0\fs28 \cf0 \
+There may be modules that have binary components that are not distributed but must be compiled from source.  This requires Xcode and you're on your own for that.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b \cf0 Help & Support\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+
+\b0 \cf0 \
+See the Help menu in QGIS and the {\field{\*\fldinst{HYPERLINK "http://www.qgis.org/"}}{\fldrslt QGIS}} web site.
+\b \
+
+\b0 \
+If there is something wrong with this distribution, let me know.  For any other QGIS problems and support, go to the {\field{\*\fldinst{HYPERLINK "http://www.qgis.org/"}}{\fldrslt QGIS}} website.\
+\
+\
+- William Kyngesburye\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "mailto:kyngchaos@kyngchaos.com"}}{\fldrslt \cf0 kyngchaos@kyngchaos.com}}\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.kyngchaos.com"}}{\fldrslt \cf0 http://www.kyngchaos.com/}}\
+}
