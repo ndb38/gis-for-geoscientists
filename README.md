@@ -35,7 +35,7 @@ Feel free to get in touch with me at ndb38@cam.ac.uk if you have any questions. 
 
 ## Current Workshops
 
-None
+1. University of Cambridge, Cambridge, UK. The workshop is being delivered as a four part lecture series for 3rd year undergraduates in the Department of Earth Science. This is one of the core components of the "Skills Course," that the third years take to develop their practical geological skills.  
 
 ## Past workshops
 
