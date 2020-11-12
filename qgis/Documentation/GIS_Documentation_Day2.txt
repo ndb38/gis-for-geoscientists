@@ -125,6 +125,8 @@ Will try this with whole numbers, using attribute table "Create New Field"
 
 New field called POP
 
+Then use Statistics Viewer (Little Sigma) to determine sum of POP attribute in SELECTED AREA
+
 8) Importing geochemical information (just for fun)
 
 Import CSV file from GEOROC to show how to import CSV...fow now not touching this
