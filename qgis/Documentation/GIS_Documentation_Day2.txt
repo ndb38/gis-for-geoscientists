@@ -144,7 +144,9 @@ Created dissolved shapefile with boundary of this affected area
 Now need to calculate area covered by lahars, here and in Qutio. "Overlap Analysis"
 
 Determine number of people impacted by different hazards in all, > 1,600,000 affected by 
-historicla eruptions
+historicla eruptions. you know this number by using the little sigma tool "Statistics,"
+and then selecting "Selected Features Only," when looking into the "Sum" of the POP field
+you defined earlier
 
 RESULTS: 1.6 million people impacted by proximal hazards - > 2 million affected by ash.
 ~6% of surrounding municipalities will be covered by lahars, nearly 9% of Quito. That translates
