@@ -1,0 +1,40 @@
+#This is a short list of file paths to install in your $PATH directory. Enter each line into your Terminal
+#You find the Terminal in your Utilities folder. It looks like a black box with a code prompt >_
+#This step is necessary for all Mac users, as QGIS doesn't overwrite your default system paths
+#Refer to https://www.cyberciti.biz/faq/appleosx-bash-unix-change-set-path-environment-variable/ for details on this method
+
+#STEP 1: Install Anaconda python distribution: https://www.anaconda.com/products/individual
+
+#STEP 2: Download separate install of GDAL: https://gdal.org/download.html
+
+#STEP 3: Configure your .bash_profile
+#If you don't have on yet, create a bash profile
+#In Macbook, step by step:
+#First of all open terminal and write it: 
+
+cd ~/
+
+#Create your bash file: 
+
+touch .bash_profile
+
+#You created your ".bash_profile" file but if you would like to edit it, you should write it;
+
+open -e .bash_profile
+
+#After opening the bash profile in the text editor, add the following lines if they aren't there already:
+# If you don't have Pytohn 3.8, you need to upgrade to 3.8!!!
+
+PATH="/Library/Frameworks/Python.framework/Versions/3.8/bin:${PATH}"
+export PATH
+export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
+export PATH=/Users/nickbarber/anaconda3/lib/python3.7/site-packages/osgeo:$PATH
+
+#After that you can save from top-left corner of screen: File > Save. The close Terminal
+#https://stackoverflow.com/questions/30461201/how-do-i-edit-path-bash-profile-on-osx
+
+#To check that it worked, open a new terminal window and type:
+
+echo $PATH 
+
+#You should see your new GDAL and ogr paths added to the system
