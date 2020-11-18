@@ -8,13 +8,13 @@ Source of Hazard Data Used to make this map: https://www.researchgate.net/public
 
 This workshop was first presented online via Zoom with the support of the McGill SEG Student Chapter in June 2020. 
 
-This page contains all the information you need to become a profient user of GIS for applications in the earth sciences. This web page will be a legacy resource to allow you to access the lectures, data, and outputs form the course, with the hope of making GIS accessible and useful in your earth science research well after the workshop concludes. 
+This page contains all the information you need to become a proficient user of GIS for applications in the earth sciences. This web page will be a legacy resource to allow you to access the lectures, data, and outputs form the course, with the hope of making GIS accessible and useful in your earth science research well after the workshop concludes. 
 
 # Roadmap to the Repository
 
 This repo contains several folders that house everything you'll need to get up and running. The first folder is a link to a separate repo, where the written exercise guide for Session 2 can be found. A similar link will be provided for Session 3 exercises (see task list for progress). Next, the "code" folder includes any scripts used in the exercises. The "lectures" folder contains the relevant Powerpoint lectures and associated figures used in the live workshop presentations. The "planning" folder tracks current and planned workshops, and incldues unviersity specific plans for the course. The "qgis" folder is where most of the good stuff is: data, documentation, and maps. Everything you need to complete the exercises can be found there!
 
-This course is distributed under an MIT License. Feel free to share and use as you see fit, even if you haven't signed up for the course. I believe in the open sharing of knwoeldge and data. Though I offer the workshop for a fee, the underlying guides and information have no price tag or download limit. I do not claim any onwerhsip on the data used in these exercises, nor the images used in the presentations.
+This course is distributed under an MIT License. Feel free to share and use as you see fit, even if you haven't signed up for the course. I believe in the open sharing of knowledge and data. Though I offer the workshop for a fee, the underlying guides and information have no price tag or download limit. I do not claim any onwerhsip on the data used in these exercises, nor the images used in the presentations.
 
 # Active task list:
 
