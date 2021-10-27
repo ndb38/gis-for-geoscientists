@@ -10,6 +10,12 @@ This workshop was first presented online via Zoom with the support of the McGill
 
 This page contains all the information you need to become a proficient user of GIS for applications in the earth sciences. This web page will be a legacy resource to allow you to access the lectures, data, and outputs form the course, with the hope of making GIS accessible and useful in your earth science research well after the workshop concludes. 
 
+# VMSG GIS for Geoscientists Information
+
+There is a folder on this repos master branch clled "VMSG_Workshop_2021." All files eprtaining the the course will be organzied here corresponding to each Session. 
+
+Links:
+
 # Roadmap to the Repository
 
 This repo contains several folders that house everything you'll need to get up and running. The first folder is a link to a separate repo, where the written exercise guide for Session 2 can be found. A similar link will be provided for Session 3 exercises (see task list for progress). Next, the "code" folder includes any scripts used in the exercises. The "lectures" folder contains the relevant Powerpoint lectures and associated figures used in the live workshop presentations. The "planning" folder tracks current and planned workshops, and incldues unviersity specific plans for the course. The "qgis" folder is where most of the good stuff is: data, documentation, and maps. Everything you need to complete the exercises can be found there!
@@ -33,15 +39,17 @@ This course is distributed under an MIT License. Feel free to share and use as y
 
 Feel free to get in touch with me at ndb38@cam.ac.uk if you have any questions. I also maintain a website showcasing my work and past workshops using [Wordpress](https://volcannick.com). If there are any issues with the data or you'd like to offer a comment/correction, submit a pull request and I'll aim to respond to requests within 24 hours.
 
-## Current Workshops
+## Current Courses
 
-1. University of Cambridge, Cambridge, UK. The workshop is being delivered as a four part lecture series for 3rd year undergraduates in the Department of Earth Science. This is one of the core components of the "Skills Course," that the third years take to develop their practical geological skills.  
+1. VMSG GIS for Geosceintists Workshop. Sponsored by VMSG, this free online offering of the course is being provided to an audience of over 400 people from all over the world! November 2021. 
+2. University of Cambridge, Cambridge, UK. The workshop is being delivered as a four part lecture series for 3rd year undergraduates in the Department of Earth Science. This is one of the core components of the "Skills Course," that the third years take to develop their practical geological skills. November 2021.
 
-## Past workshops
+## Past Courses
 
-1. McGill University, Montreal, Canada (Student Chapter of the Society of Economic Geology on campus). Reference: Catherine Crotty, Sarah Bodeving, and Robert Collar.
+1. McGill University, Montreal, Canada (Student Chapter of the Society of Economic Geology on campus). Reference: Catherine Crotty, Sarah Bodeving, and Robert Collar. June-July 2020
 2. University College London, London, UK. Primarily organized for Natural Hazards stduents in the Department of Earth Sciences. Reference: Dr. Emma Liu.
-"GIS for Geoscientists is to run in four session from August 10th to August 19th @ the UCL Department of Earth Sciences. Course partipants range in both prior GIS knowledge and career level, ranging from undergrad to faculty. In all, about 25 attendees are expected for the full workshop, which will run Monday and Wednesday afternoons for the next two weeks."
+"GIS for Geoscientists is to run in four session from August 10th to August 19th @ the UCL Department of Earth Sciences. Course partipants range in both prior GIS knowledge and career level, ranging from undergrad to faculty. In all, about 25 attendees are expected for the full workshop, which will run Monday and Wednesday afternoons for the next two weeks." August 2020
+3. University of Cambridge, Cambridge, UK. The workshop is being delivered as a four part lecture series for 3rd year undergraduates in the Department of Earth Science. This is one of the core components of the "Skills Course," that the third years take to develop their practical geological skills. November 2020.
 
 ## Future Workshops
 
