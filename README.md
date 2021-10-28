@@ -14,7 +14,10 @@ This page contains all the information you need to become a proficient user of G
 
 There is a folder on this repos master branch clled "VMSG_Workshop_2021." All files pertaining the the course will be organzied here corresponding to each Session. 
 
-Links:
+
+# Cambridge Part II Lecture Series Information
+
+See our Moodle page for msot relevant information. However, make sure you bookmark this page for future use. You will be able to access all your course material via this repository long afte we've fiished with our modules!
 
 # Roadmap to the Repository
 
