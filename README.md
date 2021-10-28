@@ -12,7 +12,7 @@ This page contains all the information you need to become a proficient user of G
 
 # VMSG GIS for Geoscientists Information
 
-There is a folder on this repos master branch clled "VMSG_Workshop_2021." All files eprtaining the the course will be organzied here corresponding to each Session. 
+There is a folder on this repos master branch clled "VMSG_Workshop_2021." All files pertaining the the course will be organzied here corresponding to each Session. 
 
 Links:
 
