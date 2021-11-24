@@ -1,0 +1,56 @@
+## QGIS Session 4: Advanced QGIS
+
+### Advanced Calculations
+
+Task 1: Database Connections
+
+1) XYZ Tiles - used to get access to basemaps. Show the range of basemaps you have enabled. 
+Then share a few of the XYZ tile links to allow people to make these connections themselves. 
+Use Google Satellite, Open Street Map as an example
+
+2) WMS - explain what WMS does (limitations). Show BGS example and HTML link
+
+3) WFS - Show Smithsonian GVP example
+
+Why do we do this? What's the benefit? What have we learned?
+
+Task 2: Model Builder
+
+Create a Graphical model that allows our procedure in this exercise to be reproducible
+
+4) Reproject --> Overalp --> Stats
+
+Created a model script that lets me iteratively run the analytical procedure in Exercise 1 for a number of different hazards!
+
+When discussing this, highlight the beenfits and limitations of the graphical modeler. 
+
+Task 3: Pythin in QGIS
+
+SHow simple Python script that allow us to import and manipulate some data
+
+5) Discuss applications of Python in QGIS
+
+6) Imported some data - both the popcensus layer (simple shapefile) and world map geopackage (Anita Grasser example)
+
+https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/pyqgis-101-creating-functions-to-load-geopackage-layers/
+https://www.qgistutorials.com/en/docs/getting_started_with_pyqgis.html
+https://locatepress.com/ppg3
+https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/
+
+7) Model builder Python output
+
+Task 4: GEE
+
+Explain what GEE is and why we would use it.
+
+8) Import GEE layer using GEE Data Catalogue plugin
+
+9) Run GEE script for global precipitation in Google Chrome
+
+script in this case calculates cumulative rainfall over the whole planet for the year of 2017
+
+https://code.earthengine.google.co.in/?accept_repo=users/nicholasbarber22/myWork
+
+10) Run GEE script in QGIS Python console
+
+Reflec ton how this data could then be brought into QGIS for mapmaking/further manipualtion

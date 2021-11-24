@@ -59,6 +59,8 @@ Zonal Statistics on ecu_popcensus and landlside risk
 
 ##SECTION 2
 
+Step 8.5 Strike and Dip Example - show!
+
 Step 9: Road Layer - Introduction to Symbol Levels
 
 Change symbol style to "Locked Roads"
@@ -76,26 +78,6 @@ Show off with GP point layer
 - shadow
 - inner glow
 - geometry generator with buffer
-
-Step 11: Point layer heatmap
-
-Show off how to make this
-
-Step 12: Raster Symbology
-
-Show raw DEM
-
-Close Gaps
-
-Then show Hillshade tool in Processing toolbox
-
-Create hillshade, and style with "Bilinear" Sampling
-
-"Hard Light" rendering for pseudocolor layer
-
-Overlay
-
-Show Mutually Exclusive Group Option
 
 Step 13: 3D Viewer
 
